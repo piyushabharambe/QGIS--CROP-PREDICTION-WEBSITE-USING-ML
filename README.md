@@ -9,21 +9,20 @@
 * [Project Setup](#project-setup)
 * [File Structure](#file-structure)
 * [Applications](#applications)
-* [Future Scope](#future-scope)
 * [Screenshots](#screenshots)
     
         
 ## Description
 
-1]TRACKING AGRICULTURE USING QGIS : We aim to track agricultural production using QGIS , a geospatial software to track Rainfall , Temperature , Humidity , Location and other Crop parameters. We can also get location data which would help farmers to know what crops can be grown and in which area.
+ 1] **TRACKING AGRICULTURE USING QGIS** : We aim to track agricultural production using QGIS , a geospatial software to track Rainfall , Temperature , Humidity , Location and other Crop parameters. We can also get location data which would help farmers to know what crops can be grown and in which area.
 
-2]CROP PREDICTION USING ML
+2]**CROP PREDICTION USING ML** :
 Based on parameters like SEASON, LOCATION,TEMPERATURE,RAINFALL , HUMIDITY, we will predict crops and help farmers to grow the crops to gain maximum benefit and yield.
 
-3]PRECISION AGRICULTURE
+3]**PRECISION AGRICULTURE**
 Precision agriculture (PA) is an approach to farm management that uses IT to ensure that the crops and soil receive exactly what they need for optimum health and productivity. The goal of PA is to ensure profitability, sustainability and protection of the environment.
 
-4]SMART FARMING
+4]**SMART FARMING**
 Smart Farming is an emerging concept that refers to managing farms using modern Information and Communication Technologies to increase the quantity and quality of products while optimizing the human labor required.
 
 ## Technology stack
@@ -55,7 +54,7 @@ $ python app.py
 >Thus we have implemented such a system with a QGIS and Geo referencing and easy-to-use web based graphic user interface and the Random Forest Machine learning algorithm to predict crop results based on the parameters. 
 
         
-## TEAM MEMBERS:-
+## TEAM MEMBERS
 >SAMINA ATTARI
 >KHUSHI BARJATIA
 >PIYUSHA BHARAMBHE
