@@ -63,17 +63,20 @@ $ python app.py
         
 ## Screenshots
 
-# TRACKING AGRICULTURE USING QGIS
-![Screenshot](https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/QGIS.png)
+### TRACKING AGRICULTURE USING QGIS
+<img src="https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/QGIS.png" alt="drawing" width="500" height = "500"/>
 
-# CROP PREDICTION USING MACHINE LEARNING
-![Screenshot](https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/CROP%20PREDICTION.png)
+### CROP PREDICTION USING MACHINE LEARNING
+<img src="https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/CROP%20PREDICTION.png" alt="drawing" width="500" height = "500"/>
 
-![Screenshot](https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/CROP%202.png)
+<img src="https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/CROP%202.png" alt="drawing" width="500" height = "500"/>
 
-# SMART FARMING
-![Screenshot](https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/SMART%20FARMING.png)
 
-# PRECISION AGRICULTURE
-![Screenshot](https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/PRECISION%20AGRICULTURE.png)
+### SMART FARMING
+<img src="https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/SMART%20FARMING.png" alt="drawing" width="500" height = "500"/>
+
+
+### PRECISION AGRICULTURE
+<img src="https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/PRECISION%20AGRICULTURE.png" alt="drawing" width="500" height = "500"/>
+
 
