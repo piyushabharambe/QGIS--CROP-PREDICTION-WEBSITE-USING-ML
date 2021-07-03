@@ -62,3 +62,18 @@ $ python app.py
 >MANSI KADAM    
         
 ## Screenshots
+
+# TRACKING AGRICULTURE USING QGIS
+![Screenshot](https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/QGIS.png)
+
+# CROP PREDICTION USING MACHINE LEARNING
+![Screenshot](https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/CROP%20PREDICTION.png)
+
+![Screenshot](https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/CROP%202.png)
+
+# SMART FARMING
+![Screenshot](https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/SMART%20FARMING.png)
+
+# PRECISION AGRICULTURE
+![Screenshot](https://github.com/SaminaAttari786/QGIS--CROP-PREDICTION-WEBSITE-USING-ML/blob/main/PRECISION%20AGRICULTURE.png)
+
