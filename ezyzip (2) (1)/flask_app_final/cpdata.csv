@@ -1,0 +1,1022 @@
+Sr_No,State_,District,City,Latitude,Longitude,Crop_Year,Season,Crop,Area,Production,Avg_Temperature,Relative_Humidity,Avg_Annual_Rainfall,T_ype_of_soil
+1,Andhra Pradesh,ANANTAPUR,Bathalapalli,14.65291,77.61883,2014,Rabi,Tobacco,341,635,311.15,49,381,Red soil
+2,Andhra Pradesh,ANANTAPUR,Guntakal,15.17289,77.3661,2014,Rabi,Tomato,4191,87055,311.15,49,381,Red soil
+3,Andhra Pradesh,ANANTAPUR,Hindupur,13.83253,77.49221,2014,Rabi,Urad,42,61,311.15,49,381,Red soil
+4,Andhra Pradesh,ANANTAPUR,Kadiri,14.11309,78.15737,2014,Whole Year,Coconut,687,5756000,311.15,49,381,Red soil
+5,Andhra Pradesh,ANANTAPUR,Puttaparthy,14.15189,77.77685,2016,Whole Year,Rice,29211,82532,311.15,49,381,Red soil
+6,Andhra Pradesh,CHITTOOR,Chittoor,13.21718,79.10033,2016,Kharif,Arhar/Tur,6100,900,307.15,71,809,Red soil
+7,Andhra Pradesh,CHITTOOR,Chittoor,13.21718,79.10033,2016,Kharif,Bajra,1700,1900,307.15,71,809,Red soil
+8,Andhra Pradesh,CHITTOOR,Chittoor,13.21698,79.10076,2016,Kharif,Dry chillies,600,800,307.15,71,809,Red soil
+9,Andhra Pradesh,CHITTOOR,Kuppam,12.79122,78.3639,2016,Kharif,Groundnut,234900,144200,307.15,71,809,Red soil
+10,Andhra Pradesh,CHITTOOR,Madanapalli,13.21718,79.10033,2016,Kharif,Bajra,1609,1878,307.15,71,809,Red soil
+11,Andhra Pradesh,EAST GODAVARI,Rajahmundry,0,0,2016,Rabi,Tobacco,3010,13721,305.15,56,2595,Alluvial Soil
+12,Andhra Pradesh,EAST GODAVARI,Rajahmundry,0,0,2015,Rabi,Tomato,628,8509,305.15,56,2595,Alluvial Soil
+13,Andhra Pradesh,EAST GODAVARI,Rajahmundry,17.00787,81.78521,2015,Rabi,Urad,18500,7641,305.15,56,2595,Alluvial Soil
+14,Andhra Pradesh,EAST GODAVARI,Tuni,17.35494,82.54124,2015,Whole Year,Coconut,46865,7.80E+08,305.15,56,2595,Alluvial Soil
+15,Andhra Pradesh,EAST GODAVARI,Tuni,0,0,2015,Whole Year,Rice,394117,1563229,305.15,56,2595,Alluvial Soil
+16,Andhra Pradesh,GUNTUR,Guntur,16.29975,80.44369,2015,Kharif,Arhar/Tur,28400,14900,308.15,53,833,Black Cotton
+17,Andhra Pradesh,GUNTUR,Guntur,16.30665,80.43654,2015,Kharif,Bajra,100,100,308.15,53,833,Black Cotton
+18,Andhra Pradesh,GUNTUR,Guntur city,16.30665,80.43654,2015,Kharif,Castor seed,1600,300,308.15,53,833,Black Cotton
+19,Andhra Pradesh,GUNTUR,Guntur city,0,0,2017,Kharif,Cotton(lint),162300,432500,308.15,53,833,Black Cotton
+20,Andhra Pradesh,GUNTUR,Guntur city,0,0,2017,Kharif,Dry chillies,27100,97300,308.15,53,833,Black Cotton
+21,Andhra Pradesh,GUNTUR,Guntur city,16.29882,80.44889,2017,Kharif,Groundnut,300,300,308.15,53,833,Black Cotton
+22,Andhra Pradesh,KRISHNA,Vijayawada,16.55166,80.83205,2017,Summer,Bajra,1900,2400,311.15,63,974,Black Cotton
+23,Andhra Pradesh,KRISHNA,Vijayawada,16.51297,80.63266,2017,Summer,Groundnut,4300,7100,311.15,63,974,Black Cotton
+24,Andhra Pradesh,KRISHNA,Vijayawada,16.51031,80.63251,2017,Summer,Rice,100,500,311.15,63,974,Black Cotton
+25,Andhra Pradesh,KRISHNA,Vijayawada,16.51343,80.63286,2017,Whole Year,Banana,300,18500,311.15,63,974,Black Cotton
+26,Andhra Pradesh,KRISHNA,Vijayawada,0,0,2017,Whole Year,Dry chillies,300,200,311.15,63,974,Black Cotton
+27,Andhra Pradesh,KRISHNA,Vijayawada,0,0,2017,Whole Year,Garlic,400,3300,311.15,63,974,Black Cotton
+28,Andhra Pradesh,KRISHNA,Vijayawada,15.63222,77.27284,2017,Kharif,Sugarcane,15400,1634000,311.15,63,974,Black Cotton
+29,Andhra Pradesh,KURNOOL,Adoni,15.63222,77.27284,2019,Kharif,Sesamum,390,90,305.15,44,333,Red Soil
+30,Andhra Pradesh,KURNOOL,Adoni,15.82065,78.03809,2019,Kharif,Small millets,256,178,305.15,44,333,Red Soil
+31,Andhra Pradesh,KURNOOL,Kurnool,15.81636,78.04032,2019,Kharif,Sunflower,26671,31039,307.15,44,133,Black soil
+32,Andhra Pradesh,KURNOOL,Kurnool,0,0,2019,Kharif,Urad,346,20,307.15,44,133,Black soil
+33,Andhra Pradesh,KURNOOL,Kurnool,0,0,2019,Rabi,Arhar/Tur,168,93,307.15,44,133,Black soil
+34,Andhra Pradesh,KURNOOL,Kurnool,15.82872,78.03574,2019,Rabi,Bajra,2350,3330,307.15,44,133,Black soil
+35,Andhra Pradesh,KURNOOL,Kurnool,15.46934,78.48294,2019,Rabi,Dry chillies,293,335,307.15,44,133,Black soil
+36,Andhra Pradesh,KURNOOL,Nandyal,0,0,2019,Rabi,Gram,30637,38541,307.15,46,693,Sandy soil
+37,Andhra Pradesh,KURNOOL,Nandyal,16.0833,78.8667,2019,Rabi,Groundnut,26324,32589,307.15,46,693,Sandy soil
+38,Andhra Pradesh,KURNOOL,Srisailam Project,15.82597,80.36127,2019,Rabi,Horse-gram,363,77,303.15,46,730,Sandy soil
+39,Andhra Pradesh,PRAKASAM,Chirala,15.73615,79.26913,2019,Rabi,Jowar,3095,3729,303.15,53,882,Black Cotton
+40,Andhra Pradesh,PRAKASAM,Markapur,15.48788,80.04714,2019,Rabi,Korra,82,57,301.15,60,197,Black soil
+41,Arunachal Pradesh,CHANGLANG,Changlang,27.13926,95.73876,2019,Rabi,Wheat,240,260,300.15,76,3800,Alluvial Soil
+42,Arunachal Pradesh,CHANGLANG,Changlang,27.13926,95.73876,2019,Whole Year,Oilseeds total,5500,4450,300.15,76,3800,Alluvial Soil
+43,Arunachal Pradesh,CHANGLANG,Changlang,27.13926,95.73876,2019,Kharif,Maize,1575,2450,300.15,76,3800,Alluvial Soil
+44,Arunachal Pradesh,CHANGLANG,Changlang,27.13926,95.73876,2020,Kharif,Rice,11550,14316,300.15,76,3800,Alluvial Soil
+45,Arunachal Pradesh,CHANGLANG,Changlang,27.13926,95.73876,2020,Kharif,Sesamum,430,244,300.15,76,3800,Alluvial Soil
+46,Arunachal Pradesh,EAST SIANG,Pasighat,28.07154,95.32511,2018,Kharif,Maize,2332,4196,300.15,69,1025.4,Sandy soil
+47,Arunachal Pradesh,EAST SIANG,Pasighat,28.07154,95.32511,2018,Kharif,Rice,10200,15525,300.15,69,1025.4,Sandy soil
+48,Arunachal Pradesh,EAST SIANG,Pasighat,28.07154,95.32511,2018,Kharif,Sesamum,98,80,300.15,69,1025.4,Sandy soil
+49,Arunachal Pradesh,PAPUM PARE,Itanagar,27.08618,93.60907,2019,Whole Year,Sugarcane,197,3723,299.15,74,2789,Black Cotton Soil
+50,Arunachal Pradesh,PAPUM PARE,Itanagar,27.08618,93.60907,2019,Whole Year,Turmeric,90,127,299.15,74,2789,Black Cotton Soil
+51,Arunachal Pradesh,PAPUM PARE,Naharlagun,27.10312,93.69194,2019,Kharif,Maize,2325,4766,299.15,74,2789,Black Cotton Soil
+52,Arunachal Pradesh,PAPUM PARE,Naharlagun,27.10312,93.69194,2019,Kharif,Rice,12025,22686,299.15,74,2789,Black Cotton Soil
+53,Arunachal Pradesh,TAWANG,Tawang,27.58894,91.8649,2018,Kharif,Sunflower,80,42,283.15,40,915,Clay soil
+54,Arunachal Pradesh,TAWANG,Tawang,27.58894,91.8649,2018,Rabi,Groundnut,10,10,283.15,40,915,Clay soil
+55,Arunachal Pradesh,TAWANG,Tawang,27.58894,91.8649,2018,Rabi,Rapeseed &Mustard,55,65,283.15,40,915,Clay soil
+56,Arunachal Pradesh,TAWANG,Tawang,27.58894,91.8649,2018,Rabi,Wheat,1695,2712,283.15,40,915,Clay soil
+57,Arunachal Pradesh,TAWANG,Tawang,27.58894,91.8649,2018,Whole Year,Oilseeds total,275,305,283.15,40,915,Clay soil
+58,Arunachal Pradesh,TAWANG,Tawang,27.58894,91.8649,2018,Kharif,Maize,872,1614,283.15,40,915,Clay soil
+59,Assam,BARPETA,Barpeta,26.32379,90.98666,2019,Whole Year,Niger seed,30,14,297.15,74,360,Sandy Soil
+60,Assam,BONGAIGAON,Bongaigaon,26.45667,90.56023,2019,Whole Year,Onion,320,1103,295.15,97,815,Sandy Soil
+61,Assam,BONGAIGAON,Bongaigaon,26.49286,90.55148,2019,Whole Year,Potato,5980,48746,295.15,97,815,Sandy Soil
+62,Assam,CACHAR,Silchar,24.77558,92.79425,2019,Whole Year,Potato,745,3296,299.15,62,3000,Clay soil
+63,Assam,CACHAR,Silchar,24.82613,92.79616,2019,Whole Year,Sugarcane,84,2992,299.15,62,3000,Clay soil
+64,Assam,CACHAR,Silchar,24.80802,92.79524,2019,Whole Year,Turmeric,242,166,299.15,62,3000,Clay soil
+65,Assam,CHIRANG,Dhaligaon,26.51058,90.52268,2019,Rabi,Moong(Green Gram),82,33,295.15,97,2766,Alluvial Soil
+66,Assam,DARRANG,Mangaldoi,26.43755,92.0364,2019,Rabi,Other Rabi pulses,70,34,287.15,52,2600,Alluvial Soil
+67,Assam,DHEMAJI,Dhemaji,27.45803,94.57453,2019,Kharif,Arhar/Tur,387,281,299.15,76,2916,Alluvial Soil
+68,Assam,DHUBRI,Dhubri,26.03437,89.96355,2019,Kharif,Castor seed,16,9,296.15,76,3034,Alluvial Soil
+69,Assam,DIBRUGARH,Dibrugarh,27.48699,94.94418,2018,Kharif,Jute,15,131,299.15,76,3034,Alluvial Soil
+70,Assam,DIBRUGARH,Dibrugarh,27.48989,94.92296,2018,Kharif,Maize,472,253,299.15,76,3034,Alluvial Soil
+71,Assam,DIBRUGARH,Dibrugarh,27.49138,94.93112,2018,Kharif,Mesta,3,15,299.15,76,3034,Alluvial Soil
+72,Assam,DIBRUGARH,Dibrugarh,0,0,2018,Kharif,Sesamum,304,165,299.15,76,3034,Alluvial Soil
+73,Assam,DIBRUGARH,Dibrugarh,0,0,2018,Kharif,Small millets,66,32,299.15,76,3034,Alluvial Soil
+74,Assam,DIBRUGARH,Duliajan,27.35919,95.32365,2018,Rabi,Gram,175,83,298.15,76,3034,Alluvial Soil
+75,Assam,DIMA HASAO,Haflong,25.16565,93.02483,2016,Autumn,Paddy,5346,7595,293.15,84,2042.1,Sandy Soil
+76,Assam,GOALPARA,Goalpara,26.14227,90.61058,2016,Autumn,Rice,5346,7595,296.15,97,3805,Alluvial Soil
+77,Assam,GOALPARA,Goalpara,26.16464,90.62488,2016,Kharif,Arhar/Tur,97,91,296.15,97,3805,Alluvial Soil
+78,Assam,GOLAGHAT,Golaghai town,26.51017,93.96457,2016,Kharif,Castor seed,6,3,298.15,70,3130,Alluvial Soil
+79,Assam,GOLAGHAT,Golaghat,26.59137,93.74952,2016,Kharif,Cotton(lint),1,1,298.15,70,3130,Alluvial Soil
+80,Assam,HAILAKANDI,Hailakandi,24.67177,92.56336,2016,Kharif,Jute,7,72,298.15,62,2993,Sandy Soil
+81,Assam,JORHAT,Jorhat,26.74257,94.19511,2016,Kharif,Maize,921,3455,297.15,73,2699,Clay soil
+82,Assam,JORHAT,Jorhat,0,0,2016,Kharif,Mesta,1,5,297.15,73,2699,Clay soil
+83,Assam,JORHAT,Jorhat,26.75306,94.18596,2016,Kharif,Niger seed,19,10,297.15,73,2699,Clay soil
+84,Assam,KAMRUP,Guwahati,26.18551,91.74049,2017,Kharif,Orange,1197,19960,297.15,69,1500,Alluvial Soil
+85,Assam,KAMRUP,Guwahati,26.14982,91.78664,2017,Kharif,Papaya,173,2599,297.15,69,1500,Alluvial Soil
+86,Assam,KAMRUP,Guwahati,26.16274,91.77066,2017,Kharif,Sesamum,64,36,297.15,69,1500,Alluvial Soil
+87,Assam,KAMRUP,Guwahati,26.15406,91.78127,2017,Kharif,Small millets,25,13,297.15,69,1500,Alluvial Soil
+88,Assam,KAMRUP,Guwahati,26.13917,91.7462,2017,Kharif,Tapioca,28,234,297.15,69,1500,Alluvial Soil
+89,Assam,KAMRUP,Guwahati,26.13513,91.80943,2017,Rabi,Arecanut,1903,1784,297.15,69,1500,Alluvial Soil
+90,Assam,KAMRUP,Guwahati,26.20219,91.69331,2017,Rabi,Black pepper,287,343,297.15,69,1500,Alluvial Soil
+91,Assam,KAMRUP,Maligaon,26.15187,91.6949,2017,Rabi,Dry chillies,201,157,297.15,69,1500,Alluvial Soil
+92,Assam,KAMRUP METRO,"Dispur, Guwahati",26.1391,91.79402,2017,Rabi,Ginger,556,4381,305.15,76,1500,Alluvial Soil
+93,Assam,KAMRUP METRO,Guwahati,26.15991,91.7685,2017,Rabi,Gram,6,4,305.15,76,1500,Alluvial Soil
+94,Assam,KAMRUP METRO,Guwahati,26.16509,91.74767,2017,Rabi,Masoor,3,1,305.15,76,1500,Alluvial Soil
+95,Assam,KAMRUP METRO,Guwahati,26.17669,91.75378,2017,Rabi,Moong(Green Gram),238,196,305.15,76,1500,Alluvial Soil
+96,Assam,KAMRUP METRO,Guwahati,26.13615,91.79683,2017,Rabi,Peas & beans (Pulses),1564,1063,305.15,76,1500,Alluvial Soil
+97,Assam,KAMRUP METRO,Guwahati,26.17208,91.75999,2017,Rabi,Pineapple,265,3830,305.15,76,1500,Alluvial Soil
+98,Assam,KAMRUP METRO,Guwahati,26.17507,91.75257,2017,Rabi,Rapeseed &Mustard,6783,4680,305.15,76,1500,Alluvial Soil
+99,Assam,KAMRUP METRO,Guwahati,26.17201,91.74011,2017,Rabi,Sweet potato,94,318,305.15,76,1500,Alluvial Soil
+100,Assam,KAMRUP METRO,Guwahati,26.10422,91.79617,2017,Rabi,Urad,2000,1160,305.15,76,1500,Alluvial Soil
+101,Assam,KAMRUP METRO,Guwahati,26.16121,91.70941,2017,Rabi,Wheat,27,35,305.15,76,1500,Alluvial Soil
+102,Assam,KAMRUP METRO,Guwahati,26.20775,91.67824,2017,Summer,Paddy,85,253,305.15,76,1500,Alluvial Soil
+103,Assam,KARBI ANGLONG,Diphu,25.84428,93.43381,2018,Whole Year,Banana,2136,30908,295.15,70,2416,Clay soil
+104,Assam,KARIMGANJ,Karimganj,24.8676,92.36181,2018,Whole Year,Coconut,76,981,298.15,62,2800,Sandy Soil
+105,Assam,KOKRAJHAR,Kokrajhar,26.45288,89.9764,2018,Whole Year,Onion,50,273,295.15,97,3102.4,Clay soil
+106,Assam,NAGAON,Hojai,26.01599,92.86819,2018,Rabi,Mustard,26229,13525,297.15,82,1760,Alluvial Soil
+107,Assam,NAGAON,Lumding,0,0,2018,Rabi,Wheat,6189,4730,297.15,82,1760,Alluvial Soil
+108,Assam,NAGAON,Nagaon,26.34494,92.68946,2018,Summer,Rice,41679,100330,297.15,82,1760,Alluvial Soil
+109,Assam,NAGAON,Nagaon,26.34426,92.68099,2018,Whole Year,Arecanut,5934,3767,297.15,82,1760,Alluvial Soil
+110,Assam,NALBARI,Nalbari,26.44822,91.43562,2018,Kharif,Maize,46,39,299.15,78,1500,Clay soil
+111,Assam,NALBARI,Nalbari,26.44061,91.43584,2018,Kharif,Mesta,45,234,299.15,78,1500,Clay soil
+112,Assam,SIVASAGAR,Sivasagar,26.9812,94.65179,2019,Rabi,Urad,280,156,296.15,74,2668,Alluvial Soil
+113,Assam,SIVASAGAR,Sivasagar,26.99787,94.61976,2019,Rabi,Wheat,65,81,296.15,74,2668,Alluvial Soil
+114,Assam,SIVASAGAR,Sivasagar,26.95522,94.61111,2019,Summer,Rice,53,137,296.15,74,2668,Alluvial Soil
+115,Assam,SONITPUR,Biswanath chariali,26.81534,93.32019,2019,Kharif,Maize,1101,661,297.15,87,3000,Alluvial Soil
+116,Assam,SONITPUR,Tezpur,26.62852,92.7965,2019,Kharif,Mesta,315,2061,297.15,87,3000,Alluvial Soil
+117,Assam,SONITPUR,Tezpur,26.6554,92.78732,2019,Kharif,Niger seed,295,172,297.15,87,3000,Alluvial Soil
+118,Assam,SONITPUR,Tezpur,26.68097,92.65335,2019,Kharif,Sesamum,840,535,297.15,87,3000,Alluvial Soil
+119,Assam,TINSUKIA,Digboi,27.39287,95.62943,2019,Rabi,Mustard,9037,3121,298.15,79,2679,Sandy Soil
+120,Assam,TINSUKIA,Margherita,27.28929,95.67477,2019,Rabi,Wheat,630,819,298.15,79,2679,Sandy Soil
+121,Assam,TINSUKIA,Tinsukia,27.49863,95.35886,2019,Summer,Rice,72,86,298.15,79,2679,Sandy Soil
+122,Assam,TINSUKIA,Tinsukia,27.49044,95.36302,2019,Whole Year,Arecanut,2082,1473,298.15,79,2679,Sandy Soil
+123,Bihar,AURANGABAD,Aurangabad,0,0,2018,Summer,Rice,6,13,301.15,63,1098,Alluvial Soil
+124,Bihar,BEGUSARAI,Begusarai,25.4138,86.13596,2018,Kharif,Groundnut,9,9,301.15,73,960,Alluvial Soil
+125,Bihar,BEGUSARAI,Begusarai,25.4138,86.13596,2018,Kharif,Horse-gram,249,237,301.15,73,960,Alluvial Soil
+126,Bihar,BEGUSARAI,Begusarai,25.4138,86.13596,2018,Kharif,Jowar,92,98,301.15,73,960,Alluvial Soil
+127,Bihar,BEGUSARAI,Begusarai,25.4138,86.13596,2018,Kharif,Mesta,21,320,301.15,73,960,Alluvial Soil
+128,Bihar,BEGUSARAI,Begusarai,25.4138,86.13596,2018,Kharif,Moong(Green Gram),138,94,301.15,73,960,Alluvial Soil
+129,Bihar,BEGUSARAI,Begusarai,25.4138,86.13596,2018,Kharif,Other Kharif pulses,24,19,301.15,73,960,Alluvial Soil
+130,Bihar,BEGUSARAI,Begusarai,25.4138,86.13596,2018,Kharif,Ragi,38,39,301.15,73,960,Alluvial Soil
+131,Bihar,BHAGALPUR,Bhagalpur,25.55976,84.66755,2018,Rabi,Linseed,1531,853,300.15,63,1307,Red Soil
+132,Bihar,BHOJPUR,Ara,25.55851,84.67063,2018,Rabi,Other Rabi pulses,472,329,298.15,50,1300,Red Soil
+133,Bihar,BHOJPUR,Ara,25.53995,87.56747,2018,Rabi,Peas & beans (Pulses),1277,1257,298.15,50,1300,Red Soil
+134,Bihar,BHOJPUR,Arrah,25.5593,84.66196,2017,Rabi,Rapeseed &Mustard,5518,4188,298.15,50,1155,Clay soil
+135,Bihar,BHOJPUR,Arrah,25.56471,83.97775,2017,Kharif,Arhar/Tur,1052,1205,298.15,50,1155,Clay soil
+136,Bihar,BUXAR,Buxar,26.13343,85.89894,2017,Rabi,Peas & beans (Pulses),383,399,301.15,52,1172,Loamy soil
+137,Bihar,DARBHANGA,Laheriasaria,26.64748,84.9103,2017,Rabi,Rapeseed &Mustard,1146,1728,300.15,50,1450,Clay soil
+138,Bihar,EAST CHAMPARAN,Motihari,0,0,2017,Rabi,Sunflower,16,23,301.15,62,1472,Sandy Soil
+139,Bihar,EAST CHAMPARAN,Raxaul,24.77118,84.9603,2017,Rabi,Wheat,65863,161967,301.15,62,1472,Sandy Soil
+140,Bihar,GAYA,Gaya,0,0,2017,Summer,Maize,689,3734,301.15,63,1055,Red Soil
+141,Bihar,GAYA,Gaya,26.46076,84.44112,2017,Summer,Moong(Green Gram),1035,910,301.15,63,1055,Red Soil
+142,Bihar,GOPALGANJ,Gopalganj,25.20523,85.51455,2017,Kharif,Bajra,28,30,300.15,62,1009,Clay soil
+143,Bihar,JAMUI,Jamui,40.26719,86.1349,2017,Kharif,Small millets,366,190,300.15,63,888,Red Soil
+144,Bihar,JEHANABAD,Jehanabad,25.03958,83.60774,2017,Kharif,Sunflower,7,6,298.15,50,1313,Red Soil
+145,Bihar,KAIMUR (BHABUA),Bhasna,0,0,2017,Rabi,Barley,1112,1006,303.15,44,777,Sandy Soil
+146,Bihar,KATIHAR,Katihar,25.53992,87.56758,2017,Kharif,Mesta,996,4476,298.15,76,1250,Sandy Soil
+147,Bihar,KATIHAR,Katihar,25.50788,86.47458,2017,Kharif,Niger seed,384,243,298.15,76,1250,Sandy Soil
+148,Bihar,KHAGARIA,Khagaria,0,0,2017,Kharif,Other Kharif pulses,648,374,300.15,63,1100,Loamy soil
+149,Bihar,KISHANGANJ,Kishanganj,0,0,2017,Kharif,Arhar/Tur,68,102,298.15,60,1000,Loamy soil
+150,Bihar,KISHANGANJ,Kishanganj,26.10178,87.94883,2017,Kharif,Blackgram,473,356,298.15,60,1000,Loamy soil
+151,Bihar,KISHANGANJ,Kishanganj,0,0,2017,Whole Year,Turmeric,119,229,298.15,60,1000,Loamy soil
+152,Bihar,LAKHISARAI,Lakhisarai,25.92291,86.79223,2017,Winter,Rice,31615,26340,301.15,63,858,Sandy Soil
+153,Bihar,MADHEPURA,Madhepura,0,0,2017,Winter,Rice,58064,100533,298.15,57,1546,Clay soil
+154,Bihar,MADHUBANI,Madhubani,0,0,2017,Kharif,Bajra,206,152,299.15,58,1200,Alluvial Soil
+155,Bihar,MUZAFFARPUR,Muzaffarpur,0,0,2017,Rabi,Rapeseed &Mustard,4453,4328,299.15,50,1300,Alluvial Soil
+156,Bihar,MUZAFFARPUR,Muzaffarpur,26.16764,85.39208,2017,Rabi,Wheat,86840,162133,299.15,50,1280,Alluvial Soil
+157,Bihar,MUZAFFARPUR,Muzaffarpur,0,0,2017,Summer,Maize,13544,31603,299.15,50,1280,Alluvial Soil
+158,Bihar,MUZAFFARPUR,Muzaffarpur,26.12225,85.38256,2017,Summer,Moong(Green Gram),27279,15494,299.15,50,1280,Alluvial Soil
+159,Bihar,MUZAFFARPUR,Muzaffarpur,0,0,2017,Summer,Rice,50,101,299.15,50,1280,Alluvial Soil
+160,Bihar,NALANDA,Bihar Sharif,25.20523,85.51455,2017,Rabi,Maize,1023,3274,298.15,50,903.5,Clay soil
+161,Bihar,NALANDA,Bihar Sharif,0,0,2019,Rabi,Masoor,15150,9135,298.15,50,903.5,Clay soil
+162,Bihar,NAWADA,Nawada,0,0,2019,Rabi,Other Rabi pulses,20,22,299.15,53,1112,Sandy Soil
+163,Bihar,PATNA,Danapur,0,0,2019,Rabi,Peas & beans (Pulses),839,865,300.15,52,1130,Sandy Soil
+164,Bihar,PATNA,Patna,0,0,2019,Rabi,Masoor,21461,19744,300.15,52,1130,Sandy Soil
+165,Bihar,PATNA,Patna,0,0,2019,Rabi,Other Rabi pulses,1,1,300.15,52,1130,Sandy Soil
+166,Bihar,PATNA,Patna,25.5941,85.13757,2019,Rabi,Peas & beans (Pulses),1720,1655,300.15,52,1130,Sandy Soil
+167,Bihar,PATNA,Patna,0,0,2019,Rabi,Potato,2857,21885,300.15,52,1130,Sandy Soil
+168,Bihar,PATNA,Patna,0,0,2019,Rabi,Rapeseed &Mustard,2459,2171,300.15,52,1130,Sandy Soil
+169,Bihar,PATNA,Patna,0,0,2019,Rabi,Sunflower,24,43,300.15,52,1130,Sandy Soil
+170,Bihar,PATNA,Patna,0,0,2019,Rabi,Wheat,56603,146854,300.15,52,1130,Sandy Soil
+171,Bihar,PATNA,Patna,0,0,2019,Summer,Maize,3178,10326,300.15,52,1130,Sandy Soil
+172,Bihar,PATNA,Patna,25.61979,85.15885,2019,Summer,Moong(Green Gram),54,36,300.15,52,1130,Sandy Soil
+173,Bihar,PATNA,Patna,25.61991,85.14526,2019,Whole Year,Dry chillies,30,14,300.15,52,1130,Sandy Soil
+174,Bihar,PATNA,Patna,25.60017,85.15228,2019,Whole Year,Garlic,5,7,300.15,52,1130,Sandy Soil
+175,Bihar,PATNA,Patna,0,0,2019,Whole Year,Onion,926,5334,300.15,52,1130,Sandy Soil
+176,Bihar,PATNA,Patna,0,0,2019,Whole Year,Sugarcane,224,9855,300.15,52,1130,Sandy Soil
+177,Bihar,PATNA,Patna,0,0,2019,Winter,Rice,86746,133393,300.15,52,1130,Sandy Soil
+178,Bihar,PATNA,Patna,25.61169,85.08957,2019,Autumn,Maize,5160,5218,300.15,52,1130,Sandy Soil
+179,Bihar,PATNA,Patna,25.61169,85.08957,2019,Autumn,Rice,29,25,300.15,52,1130,Sandy Soil
+180,Bihar,PATNA,Patna,25.61169,85.08957,2019,Kharif,Arhar/Tur,494,679,300.15,52,1130,Sandy Soil
+181,Bihar,PATNA,Patna,25.61169,85.08957,2019,Kharif,Moong(Green Gram),4,3,300.15,52,1130,Sandy Soil
+182,Bihar,PATNA,Patna,25.61169,85.08957,2019,Kharif,Other Kharif pulses,5,3,300.15,52,1130,Sandy Soil
+183,Chandigarh,CHANDIGARH,Chandigarh,30.76591,76.77549,2017,Whole Year,Onion,5,85,307.15,33,838,Silt Soil
+184,Chandigarh,CHANDIGARH,Chandigarh,30.74211,76.75514,2017,Whole Year,Potato,20,360,307.15,33,838,Silt Soil
+185,Chandigarh,CHANDIGARH,Chandigarh,30.70929,76.78054,2017,Kharif,Maize,20,40,307.15,33,838,Silt Soil
+186,Chandigarh,CHANDIGARH,Chandigarh,30.75102,76.78097,2017,Kharif,Rice,50,250,307.15,33,838,Silt Soil
+187,Chhattisgarh,BALOD,Baloda,0,0,2017,Rabi,Masoor,797,138,308.15,69,373,Sandy Soil
+188,Chhattisgarh,BASTAR,Jagdalpur,19.08507,82.02396,2017,Rabi,Wheat,15404,15384,308.15,38,1541,Red Soil
+189,Chhattisgarh,BEMETARA,Bemetara,0,0,2017,Whole Year,Banana,111,101,299.15,16,600,Red Soil
+190,Chhattisgarh,BIJAPUR,Bijapur,0,0,2017,Kharif,Groundnut,275,469,299.15,32,552,Red Soil
+191,Chhattisgarh,BILASPUR,Bilaspur,22.08762,82.15227,2017,Kharif,Soyabean,554,503,308.15,37,1412,Alluvial Soil
+192,Chhattisgarh,BILASPUR,Bilaspur,22.07423,82.1584,2017,Kharif,Sunflower,31,14,309.16,29,1412,Alluvial Soil
+193,Chhattisgarh,BILASPUR,Bilaspur,0,0,2017,Kharif,Urad,1924,436,309.16,29,1412,Alluvial Soil
+194,Chhattisgarh,BILASPUR,Bilaspur,22.08701,82.17764,2017,Rabi,Barley,7,6,309.16,29,1412,Alluvial Soil
+195,Chhattisgarh,BILASPUR,Bilaspur,22.0867,82.15254,2017,Rabi,Gram,19188,14032,309.16,29,1412,Alluvial Soil
+196,Chhattisgarh,BILASPUR,Bilaspur,22.07866,82.14507,2017,Kharif,Sunflower,465,206,309.16,29,1412,Alluvial Soil
+197,Chhattisgarh,DANTEWADA,Bacheli,18.7037,81.24861,2017,Rabi,Rapeseed &Mustard,2677,868,306.15,40,1432,Sandy Soil
+198,Chhattisgarh,DANTEWADA,Dantewada,18.89362,81.3505,2017,Rabi,Urad,232,79,306.15,40,1432,Sandy Soil
+199,Chhattisgarh,DANTEWADA,Kirandul,18.63425,81.2529,2017,Rabi,Wheat,7,9,306.15,40,1432,Sandy Soil
+200,Chhattisgarh,DHAMTARI,Dhamtari,20.70765,81.53949,2017,Whole Year,Banana,39,1508,308.15,38,1221,Red Soil
+201,Chhattisgarh,DHAMTARI,Dhamtari,20.71875,81.55154,2017,Kharif,Groundnut,11,8,308.15,38,1221,Red Soil
+202,Chhattisgarh,DURG,Bhilai,21.21631,81.32262,2017,Kharif,Urad,2402,693,308.15,38,1323,Red Soil
+203,Chhattisgarh,DURG,Bhilai,21.25153,81.33745,2017,Rabi,Barley,59,30,308.15,39,1323,Red Soil
+204,Chhattisgarh,DURG,Bhilai,0,0,2017,Rabi,Gram,91698,86582,308.15,39,1323,Red Soil
+205,Chhattisgarh,DURG,Durg,21.1871,81.27923,2017,Rabi,Horse-gram,104,29,308.15,39,1323,Red Soil
+206,Chhattisgarh,DURG,Durg,21.18973,81.31612,2017,Rabi,Khesari,141076,72211,308.15,39,1323,Red Soil
+207,Chhattisgarh,DURG,Durg,21.20025,81.32267,2017,Rabi,Linseed,15147,3540,308.15,39,1323,Red Soil
+208,Chhattisgarh,DURG,Durg,0,0,2017,Rabi,Masoor,6526,2227,308.15,39,1323,Red Soil
+209,Chhattisgarh,JANJGIR-CHAMPA,Janjgir,0,0,2018,Kharif,Castor seed,65,16,313.15,53,1157,Red and Yellow Soil
+210,Chhattisgarh,JASHPUR,JASHPURNAGAR,0,0,2018,Kharif,Horse-gram,3393,965,306.15,34,1487,Black Soil
+211,Chhattisgarh,KABIRDHAM (Kawardha),Kawardha,22.036,81.221,2018,Kharif,Niger seed,262,50,312.15,20,1200,Red and Yellow Soil
+212,Chhattisgarh,KANKER,Kanker,20.26472,81.49516,2018,Kharif,Other Kharif pulses,46,11,313.15,14,1492,Red Soil
+213,Chhattisgarh,KORBA,Korba,22.364,82.744,2018,Rabi,Rapeseed &Mustard,2259,991,310.15,29,404,Red and Yellow Soil
+214,Chhattisgarh,KORBA,Korba,0,0,2018,Rabi,Urad,4,1,310.15,29,404,Red and Yellow Soil
+215,Chhattisgarh,KORBA,Korba,22.35876,82.72035,2018,Rabi,Wheat,670,951,310.15,29,404,Red and Yellow Soil
+216,Chhattisgarh,KORBA,TP Nagar,0,0,2018,Whole Year,Banana,3,106,310.15,29,404,Red and Yellow Soil
+217,Chhattisgarh,KOREA,Baikunthpur,23.26,82.562,2018,Whole Year,Coriander,15,4,306.15,35,539,Sandy Soil
+218,Chhattisgarh,MUNGELI,Mungeli,22.07099,81.68763,2018,Rabi,Masoor,843,283,309.15,29,776,Red Sandy Soil
+219,Chhattisgarh,NARAYANPUR,Narayanpur,19.71663,81.22928,2018,Kharif,Sunflower,1027,230,304.15,40,1300,Black Soil
+220,Chhattisgarh,RAIGARH,Mahasamund,21.11932,82.07431,2018,Kharif,Urad,19765,4030,306.15,59,1324,Black Soil
+221,Chhattisgarh,RAIGARH,Raigarh,0,0,2018,Rabi,Gram,433,310,306.15,59,1324,Black Soil
+222,Chhattisgarh,RAIGARH,Raigarh,21.92728,83.35915,2018,Rabi,Khesari,1956,834,306.15,59,1324,Black Soil
+223,Chhattisgarh,RAIGARH,Raigarh,21.89093,83.39662,2018,Rabi,Linseed,228,59,306.15,59,1324,Black Soil
+224,Chhattisgarh,RAIPUR,Raipur,21.25076,81.639,2017,Rabi,Masoor,104,30,311.15,38,1489,Red and Yellow Soil
+225,Chhattisgarh,RAIPUR,Raipur,21.15,81.38,2017,Kharif,Small millets,5,1,311.15,38,1489,Red and Yellow Soil
+226,Chhattisgarh,RAIPUR,Raipur,0,0,2017,Kharif,Soyabean,159,178,311.15,38,1489,Red and Yellow Soil
+227,Chhattisgarh,RAIPUR,Raipur,21.24091,81.62069,2017,Kharif,Sunflower,36,13,311.15,38,1489,Red and Yellow Soil
+228,Chhattisgarh,RAIPUR,Raipur,21.25139,81.62964,2017,Kharif,Urad,216,95,311.15,38,1489,Red and Yellow Soil
+229,Chhattisgarh,RAIPUR,Raipur,21.21327,81.65767,2017,Rabi,Gram,6263,6731,311.15,38,1489,Red and Yellow Soil
+230,Chhattisgarh,RAIPUR,Raipur,0,0,2017,Rabi,Khesari,16080,17255,311.15,38,1489,Red and Yellow Soil
+231,Chhattisgarh,RAIPUR,Raipur,21.23583,81.65225,2017,Rabi,Linseed,71,33,311.15,38,1489,Red and Yellow Soil
+232,Chhattisgarh,RAIPUR,Raipur,21.24683,81.61188,2017,Rabi,Masoor,1056,481,311.15,38,1489,Red and Yellow Soil
+233,Chhattisgarh,RAIPUR,Raipur,21.25435,81.66339,2017,Rabi,Safflower,804,230,311.15,38,1489,Red and Yellow Soil
+234,Chhattisgarh,RAIPUR,Raipur,21.247,81.656,2017,Rabi,Urad,375,122,311.15,38,1489,Red and Yellow Soil
+235,Chhattisgarh,RAIPUR,Raipur,21.26353,81.64983,2017,Rabi,Wheat,4068,8307,311.15,38,1489,Red and Yellow Soil
+236,Chhattisgarh,RAIPUR,Raipur,21.24496,81.63013,2016,Whole Year,Banana,99,4336,311.15,38,1489,Red and Yellow Soil
+237,Chhattisgarh,RAIPUR,Raipur,21.55398,81.79053,2016,Whole Year,Coriander,180,85,311.15,38,1489,Red and Yellow Soil
+238,Chhattisgarh,RAIPUR,Raipur,21.26318,81.63704,2016,Whole Year,Dry chillies,386,248,311.15,38,1489,Red and Yellow Soil
+239,Chhattisgarh,RAIPUR,Raipur,21.25825,81.66018,2016,Whole Year,Dry ginger,8,13,311.15,38,1489,Red and Yellow Soil
+240,Chhattisgarh,RAIPUR,Raipur,0,0,2016,Whole Year,Onion,90,777,311.15,38,1489,Red and Yellow Soil
+241,Chhattisgarh,RAJNANDGAON,Rajnandgaon,21.08646,81.03028,2016,Kharif,Arhar/Tur,5625,2288,308.15,69,797.26,Laterite Soil
+242,Chhattisgarh,RAJNANDGAON,Rajnandgaon,0,0,2016,Kharif,Bajra,3,2,308.15,69,797.26,Laterite Soil
+243,Chhattisgarh,SUKMA,Sukma,0,0,2016,Kharif,Horse-gram,8563,2476,308.15,40,916,Clay soil
+244,Chhattisgarh,SURAJPUR,Surajpur,0,0,2016,Kharif,Jowar,1542,1343,306.14,34,962,Clay soil
+245,Chhattisgarh,SURGUJA,Ambikapur,23.10999,83.1945,2016,Whole Year,Tobacco,17,8,300.15,27,882,Red and Yellow Soil
+246,Chhattisgarh,SURGUJA,Ambikapur,23.13418,83.19353,2016,Whole Year,Turmeric,337,328,300.15,27,882,Red and Yellow Soil
+247,Chhattisgarh,SURGUJA,Ambikapur,23.11756,83.19117,2016,Kharif,Arhar/Tur,16151,7693,300.15,27,882,Red and Yellow Soil
+248,Goa,NORTH GOA,Mapusa,15.59759,73.8202,2019,Whole Year,Other Vegetables,3940,45015,311.15,66,2688,Alluvial Soil
+249,Goa,NORTH GOA,Panaji,15.46377,73.85881,2019,Whole Year,Pineapple,262,4348,311.15,66,2688,Alluvial Soil
+250,Goa,SOUTH GOA,Margao,15.27947,73.96057,2019,Whole Year,Sugarcane,129,5767,307.15,66,995,Laterite Soil
+251,Goa,SOUTH GOA,Margao,15.26884,73.96561,2019,Kharif,Groundnut,40,71,307.15,66,995,Laterite Soil
+252,Goa,SOUTH GOA,Vasco,15.39508,73.83713,2019,Kharif,Other Kharif pulses,240,145,307.15,66,995,Laterite Soil
+253,Gujarat,AHMEDABAD,Ahmedabad,23.0206,72.57166,2019,Rabi,Rapeseed &Mustard,9000,9400,314.15,15,750,Alluvial Soil
+254,Gujarat,AHMEDABAD,Ahmedabad,23.03529,72.61772,2019,Rabi,Wheat,96000,121400,314.15,15,750,Alluvial Soil
+255,Gujarat,AHMEDABAD,Ahmedabad,22.99946,72.60458,2019,Summer,Bajra,12200,26300,314.15,15,750,Alluvial Soil
+256,Gujarat,AHMEDABAD,Ahmedabad,23.05123,72.6055,2019,Summer,Groundnut,100,100,314.15,15,750,Alluvial Soil
+257,Gujarat,AHMEDABAD,Ahmedabad,23.0827,72.52586,2019,Whole Year,Banana,200,14300,314.15,15,750,Alluvial Soil
+258,Gujarat,AHMEDABAD,Ahmedabad,23.01272,72.55774,2019,Whole Year,Castor seed,24300,35500,314.15,15,750,Alluvial Soil
+259,Gujarat,AHMEDABAD,Ahmedabad,23.03906,72.61026,2019,Whole Year,Cotton(lint),154900,181500,314.15,15,750,Alluvial Soil
+260,Gujarat,AHMEDABAD,Ahmedabad,23.05144,72.60558,2019,Whole Year,Maize,600,1000,314.15,15,750,Alluvial Soil
+261,Gujarat,AHMEDABAD,Ahmedabad,23.0001,72.60486,2020,Whole Year,Potato,2300,50000,314.15,15,750,Alluvial Soil
+262,Gujarat,AHMEDABAD,Ahmedabad,23.03871,72.61033,2020,Whole Year,Pulses total,7000,48,314.15,15,750,Alluvial Soil
+263,Gujarat,AHMEDABAD,Ahmedabad,23.02811,72.62387,2020,Kharif,Other Cereals & Millets,400,200,314.15,15,750,Alluvial Soil
+264,Gujarat,AHMEDABAD,Ahmedabad,0,0,2020,Kharif,Other Kharif pulses,700,300,314.15,15,750,Alluvial Soil
+265,Gujarat,AHMEDABAD,Ahmedabad,23.00832,72.54337,2020,Kharif,Rice,52200,72600,314.15,15,750,Alluvial Soil
+266,Gujarat,AHMEDABAD,Ahmedabad,23.00623,72.54192,2020,Kharif,Sesamum,9900,5900,314.15,15,750,Alluvial Soil
+267,Gujarat,AHMEDABAD,Ahmedabad,23.06573,72.63679,2020,Kharif,Small millets,400,200,314.15,15,750,Alluvial Soil
+268,Gujarat,AHMEDABAD,Ahmedabad,23.03318,72.62842,2020,Kharif,Urad,1300,900,314.15,15,750,Alluvial Soil
+269,Gujarat,AHMEDABAD,Ahmedabad,23.01641,72.56633,2020,Rabi,Gram,12300,6500,314.15,15,750,Alluvial Soil
+270,Gujarat,AHMEDABAD,Ahmedabad,23.01641,72.56633,2020,Rabi,Jowar,2500,2000,314.15,15,750,Alluvial Soil
+271,Gujarat,AMRELI,Amreli,21.60699,71.22186,2020,Kharif,Moth,500,200,313.15,66,565,Sandy Soil
+272,Gujarat,ANAND,Anand,22.55461,72.9604,2020,Rabi,Rapeseed &Mustard,3400,4700,313.15,46,832,Alluvial Soil
+273,Gujarat,ANAND,Anand,22.59639,72.80717,2020,Rabi,Wheat,48600,91600,313.15,46,832,Alluvial Soil
+274,Gujarat,ANAND,Anand,22.55655,72.96399,2020,Summer,Bajra,25100,55600,313.15,46,832,Alluvial Soil
+275,Gujarat,ANAND,Kambhat,21.52053,70.45446,2020,Summer,Groundnut,300,400,313.15,46,832,Alluvial Soil
+276,Gujarat,ANAND,Karamsad,22.53947,72.89043,2020,Summer,Rice,500,1400,313.15,46,832,Alluvial Soil
+277,Gujarat,ANAND,Petlad,22.56467,72.96086,2020,Whole Year,Banana,11200,590500,313.15,46,832,Alluvial Soil
+278,Gujarat,Banaskantha,Banaskantha,24.25632,72.18437,2020,Rabi,Gram,300,200,312.15,17,1359,Sandy Soil
+279,Gujarat,Banaskantha,Banaskantha,24.17037,72.43519,2020,Rabi,Rapeseed &Mustard,161700,161000,312.15,17,1359,Sandy Soil
+280,Gujarat,Banaskantha,Banaskantha,24.17502,72.43469,2020,Rabi,Wheat,42600,109700,312.15,17,1359,Sandy Soil
+281,Gujarat,Banaskantha,Banaskantha,24.26623,72.18397,2020,Summer,Bajra,34900,63000,312.15,17,1359,Sandy Soil
+282,Gujarat,Banaskantha,Banaskantha,24.16244,72.41423,2020,Summer,Groundnut,1200,2000,312.15,17,1359,Sandy Soil
+283,Gujarat,Banaskantha,Banaskantha,24.26479,72.18338,2020,Whole Year,Castor seed,62100,124600,312.15,17,1359,Sandy Soil
+284,Gujarat,Banaskantha,Banaskantha,24.49978,72.02013,2020,Whole Year,Cotton(lint),22600,33300,312.15,17,1359,Sandy Soil
+285,Gujarat,Banaskantha,Banaskantha,24.49959,72.03256,2020,Whole Year,Maize,6500,14800,312.15,17,1359,Sandy Soil
+286,Gujarat,Banaskantha,Banaskantha,24.26376,72.16241,2020,Whole Year,Tobacco,3300,5400,312.15,17,1359,Sandy Soil
+287,Gujarat,Banaskantha,Tharad,24.39628,71.63804,2020,Kharif,Arhar/Tur,5600,5300,312.15,17,1359,Sandy Soil
+288,Gujarat,BHARUCH,Bharuch,21.72512,21.72512,2019,Rabi,Gram,3300,1700,311.15,45,862,Black Soil
+289,Gujarat,BHARUCH,Bharuch,21.62815,72.99578,2019,Rabi,Jowar,28900,23700,311.15,45,862,Black Soil
+290,Gujarat,BHAVNAGAR,Bhavnagar,21.76767,72.14198,2019,Rabi,Other Rabi pulses,300,200,312.15,26,658,Alluvial Soil
+291,Gujarat,BHAVNAGAR,Bhavnagar,21.76982,72.16038,2019,Kharif,Moong(Green Gram),5200,4000,312.15,26,658,Alluvial Soil
+292,Gujarat,BHAVNAGAR,Bhavnagar,21.7741,72.14371,2019,Kharif,Moth,2200,900,312.15,26,658,Alluvial Soil
+293,Gujarat,BHAVNAGAR,Bhavnagar,21.08896,71.76909,2019,Kharif,Urad,3100,2100,312.15,26,658,Alluvial Soil
+294,Gujarat,BHAVNAGAR,Bhavnagar,22.17897,71.65179,2019,Rabi,Gram,1200,1000,312.15,26,658,Alluvial Soil
+295,Gujarat,BHAVNAGAR,Bhavnagar,21.52921,71.82471,2019,Rabi,Jowar,1900,1600,312.15,26,658,Alluvial Soil
+296,Gujarat,Dahod,Dahod,22.83883,74.25414,2019,Whole Year,Garlic,200,1600,313.15,23,578,Loamy soil
+297,Gujarat,Dahod,Dahod,22.94928,73.63024,2019,Whole Year,Onion,600,18400,313.15,23,578,Loamy soil
+298,Gujarat,Dahod,Dahod,22.83996,74.25436,2019,Kharif,Arhar/Tur,17600,23000,313.15,23,578,Loamy soil
+299,Gujarat,DANG,Ahwa,20.76161,73.68924,2019,Rabi,Jowar,400,400,306.15,50,248,Sandy Soil
+300,Gujarat,GANDHINAGAR,Gandhinagar,22.60858,73.45958,2019,Kharif,Jowar,3300,2800,315.15,14,769,Alluvial Soil
+301,Gujarat,GANDHINAGAR,GANDHINAGAR,23.2186,72.64159,2019,Kharif,Maize,200,300,315.15,14,769,Alluvial Soil
+302,Gujarat,GANDHINAGAR,Gandhinagar,23.22693,72.64656,2019,Kharif,Moong(Green Gram),400,300,315.15,14,769,Alluvial Soil
+303,Gujarat,GANDHINAGAR,Gandhinagar,23.10964,72.62584,2019,Kharif,Rice,5900,15600,315.15,14,769,Alluvial Soil
+304,Gujarat,GANDHINAGAR,Mansa,23.42006,72.65318,2019,Kharif,Sesamum,100,100,315.15,14,769,Alluvial Soil
+305,Gujarat,JAMNAGAR,Jamnagar,22.48531,70.05856,2019,Kharif,Other Kharif pulses,300,100,313.15,14,639,Alluvial Soil
+306,Gujarat,JAMNAGAR,Jamnagar,22.46188,70.07202,2019,Kharif,Sesamum,4000,800,313.15,14,639,Alluvial Soil
+307,Gujarat,JAMNAGAR,Jamnagar,22.20859,69.65191,2019,Kharif,Urad,4300,2700,313.15,14,639,Alluvial Soil
+308,Gujarat,JAMNAGAR,Jamnagar,22.20552,69.10254,2019,Rabi,Gram,7200,6700,313.15,14,639,Alluvial Soil
+309,Gujarat,RAJKOT,Gondal,21.95915,70.80312,2018,Rabi,Other Cereals & Millets,100,100,313.15,15,653,Sandy Soil
+310,Gujarat,RAJKOT,Rajkot,22.3046,70.79973,2018,Rabi,Rapeseed &Mustard,500,800,313.15,15,653,Sandy Soil
+311,Gujarat,RAJKOT,Rajkot,22.2873,70.8003,2018,Rabi,Wheat,113800,451500,313.15,15,653,Sandy Soil
+312,Gujarat,RAJKOT,Rajkot,22.29538,70.79696,2018,Summer,Bajra,1100,2900,313.15,15,653,Sandy Soil
+313,Gujarat,RAJKOT,Rajkot,22.30301,70.78702,2018,Summer,Groundnut,15000,29700,313.15,15,653,Sandy Soil
+314,Gujarat,RAJKOT,Rajkot,22.81581,70.83147,2018,Summer,Moong(Green Gram),600,300,313.15,15,653,Sandy Soil
+315,Gujarat,RAJKOT,Rajkot,22.28333,70.8,2018,Summer,Onion,1400,38900,313.15,15,653,Sandy Soil
+316,Gujarat,RAJKOT,Rajkot,22.2943,70.78861,2018,Summer,Sesamum,6400,3100,313.15,15,653,Sandy Soil
+317,Gujarat,RAJKOT,Rajkot,22.81145,70.82826,2018,Summer,Urad,100,100,313.15,15,653,Sandy Soil
+318,Gujarat,RAJKOT,Rajkot,21.75719,70.62264,2018,Whole Year,Garlic,11600,80100,313.15,15,653,Sandy Soil
+319,Gujarat,RAJKOT,Rajkot,21.73188,70.45013,2018,Whole Year,Potato,100,1300,313.15,15,653,Sandy Soil
+320,Gujarat,Sabarkantha,Himmatnagar,23.59569,72.96069,2018,Whole Year,Sesamum,6100,3200,307.15,20,700,Black Soil
+321,Gujarat,Sabarkantha,Himmatnagar,23.05673,72.57337,2018,Whole Year,Sugarcane,500,37000,307.15,20,700,Black Soil
+322,Gujarat,Sabarkantha,Sabarkantha,23.46738,73.29769,2018,Whole Year,Tobacco,100,200,307.15,20,700,Black Soil
+323,Gujarat,Sabarkantha,Sabarkantha,23.83868,23.83868,2018,Kharif,Arhar/Tur,51000,55600,307.15,20,700,Black Soil
+324,Gujarat,Sabarkantha,Sabarkantha,23.45989,73.29757,2018,Kharif,Bajra,14100,7500,307.15,20,700,Black Soil
+325,Gujarat,SURAT,Surat,21.18027,72.82112,2018,Whole Year,Dry chillies,1400,1600,309.15,54,989,Black Cotton Soil
+326,Gujarat,SURAT,Surat,21.17267,72.82995,2019,Kharif,Urad,3400,2200,309.15,54,989,Black Cotton Soil
+327,Gujarat,SURAT,Surat,21.21972,72.91062,2019,Rabi,Gram,3100,2300,309.15,54,989,Black Cotton Soil
+328,Gujarat,SURAT,Surat,21.1841,72.8139,2019,Rabi,Jowar,5500,4400,309.15,54,989,Black Cotton Soil
+329,Gujarat,SURAT,Surat,21.13045,73.1081,2019,Rabi,Other Rabi pulses,1200,700,309.15,54,989,Black Cotton Soil
+330,Gujarat,SURAT,Surat,21.19625,72.84548,2019,Rabi,Rapeseed &Mustard,100,100,309.15,54,989,Black Cotton Soil
+331,Gujarat,SURAT,Surat,21.195,72.81944,2019,Rabi,Wheat,6700,11600,309.15,54,989,Black Cotton Soil
+332,Gujarat,SURENDRANAGAR,Surendranagar,22.7226,71.64917,2019,Rabi,Rapeseed &Mustard,500,500,307.15,26,587,Black Soil
+333,Gujarat,SURENDRANAGAR,Surendranagar,22.74175,71.62214,2019,Rabi,Wheat,22500,46800,307.15,26,587,Black Soil
+334,Gujarat,SURENDRANAGAR,Surendranagar,22.99084,71.47162,2019,Summer,Bajra,300,600,307.15,26,587,Black Soil
+335,Gujarat,TAPI,Tapi,21.11331,21.11331,2019,Rabi,Gram,1700,2400,307.15,50,1334,Black Cotton Soil
+336,Gujarat,TAPI,Vyara,21.11876,73.40413,2019,Rabi,Jowar,4100,3800,307.15,50,1334,Black Cotton Soil
+337,Gujarat,VADODARA,Vadodara,22.30713,73.18973,2019,Whole Year,Sesamum,1400,800,313.15,23,869,Alluvial Soil
+338,Gujarat,VADODARA,Vadodara,22.30031,22.30031,2019,Whole Year,Sugarcane,1400,104000,313.15,23,869,Alluvial Soil
+339,Gujarat,VADODARA,Vadodara,22.31497,73.19536,2019,Whole Year,Tobacco,25800,31400,313.15,23,869,Alluvial Soil
+340,Gujarat,VADODARA,Vadodara,22.30777,73.18633,2019,Kharif,Arhar/Tur,99900,85600,313.15,23,869,Alluvial Soil
+341,Gujarat,VADODARA,Vadodara,22.33463,73.46416,2019,Kharif,Bajra,6900,5400,313.15,23,869,Alluvial Soil
+342,Gujarat,VADODARA,Vadodara,22.31375,73.14809,2019,Kharif,Castor seed,14300,16400,313.15,23,869,Alluvial Soil
+343,Gujarat,VADODARA,Vadodara,22.3042,73.1935,2017,Kharif,Cotton(lint),177000,368000,313.15,23,869,Alluvial Soil
+344,Gujarat,VADODARA,Vadodara,22.30732,73.18108,2017,Kharif,Groundnut,1600,2100,313.15,23,869,Alluvial Soil
+345,Gujarat,VADODARA,Vadodara,22.32543,73.16324,2017,Kharif,Jowar,4300,4500,313.15,23,869,Alluvial Soil
+346,Gujarat,VALSAD,Pardi,20.51686,72.95121,2017,Whole Year,Pulses total,14200,56,310.15,91,2162,Black Soil
+347,Gujarat,VALSAD,Valsad,20.59404,72.92206,2017,Whole Year,Ragi,8000,7300,310.15,91,2162,Black Soil
+348,Gujarat,VALSAD,VALSAD,20.60974,72.9291,2017,Whole Year,Rice,97800,172200,310.15,91,2162,Black Soil
+349,Gujarat,VALSAD,Valsad,20.38126,72.92082,2017,Kharif,Arhar/Tur,6300,6000,310.15,91,2162,Black Soil
+350,Gujarat,VALSAD,Vapi,20.37399,72.90478,2017,Kharif,Maize,801,3000,310.15,91,2162,Black Soil
+351,Haryana,AMBALA,Ambala,30.339065,76.836686,2017,Kharif,Rice,82642,343000,296.75,32,748,Sandy Soil
+352,Haryana,AMBALA,Ambala,30.378711,76.779636,2017,Kharif,Sunflower,46,100,296.75,32,748,Sandy Soil
+353,Haryana,AMBALA,Ambala,30.252282,77.049488,2017,Rabi,Masoor,555,506,296.75,32,748,Sandy Soil
+354,Haryana,AMBALA,Ambala,30.339065,76.836686,2017,Rabi,Wheat,87168,366000,296.75,32,748,Sandy Soil
+355,Haryana,AMBALA,Ambala,30.378711,76.779636,2017,Whole Year,Dry chillies,137,1300,296.75,32,748,Sandy Soil
+356,Haryana,AMBALA,Ambala,30.378711,76.779636,2017,Whole Year,Garlic,15,100,296.75,32,748,Sandy Soil
+357,Haryana,AMBALA,Ambala,30.339065,76.836686,2012,Whole Year,Onion,855,27100,296.75,32,748,Sandy Soil
+358,Haryana,AMBALA,Ambala,30.252282,77.049488,2012,Whole Year,Potato,1817,43700,296.75,32,748,Sandy Soil
+359,Haryana,BHIWANI,Bhiwani,28.797229,76.13081,2012,Kharif,Arhar/Tur,820,1014,298.35,26,533,Clay soil
+360,Haryana,BHIWANI,Bhiwani,28.797229,76.13081,2012,Kharif,Bajra,88740,123000,298.35,26,533,Clay soil
+361,Haryana,BHIWANI,Bhiwani,28.797229,76.13081,2012,Rabi,Barley,12209,39000,298.35,26,533,Clay soil
+362,Haryana,BHIWANI,Bhiwani,28.797229,76.13081,2012,Whole Year,Dry chillies,90,900,298.35,26,533,Clay soil
+363,Haryana,FARIDABAD,Faridabad,28.392623,77.299274,2011,Kharif,Arhar/Tur,233,200,297.85,49,542,Silt Soil
+364,Haryana,FARIDABAD,Faridabad,28.391378,77.306856,2011,Kharif,Bajra,3925,6000,297.85,49,542,Silt Soil
+365,Haryana,FARIDABAD,Faridabad,28.40274,77.31823,2011,Kharif,Jowar,864,1000,297.85,49,542,Silt Soil
+366,Haryana,FARIDABAD,Faridabad,28.422451,77.316923,2011,Kharif,Rice,11554,28000,297.85,49,542,Silt Soil
+367,Haryana,FARIDABAD,Faridabad,28.393014,77.310047,2011,Rabi,Wheat,30475,150000,297.85,49,542,Silt Soil
+368,Haryana,FARIDABAD,Faridabad,28.383115,77.302218,2011,Whole Year,Sugarcane,579,8000,297.85,49,542,Silt Soil
+369,Haryana,FARIDABAD,Faridabad,28.425756,77.299823,2011,Kharif,Arhar/Tur,174,201,297.85,49,542,Silt Soil
+370,Haryana,FARIDABAD,Faridabad,28.406835,77.318049,2012,Kharif,Rice,10709,25000,297.85,49,542,Silt Soil
+371,Haryana,FARIDABAD,Faridabad,29.517629,75.448988,2012,Rabi,Wheat,31055,141000,297.85,49,542,Silt Soil
+372,Haryana,FATEHABAD,Fatehabad,29.715587,75.900961,2012,Kharif,Arhar/Tur,13,13,298.35,67,373,Sandy Soil
+373,Haryana,FATEHABAD,Fatehabad,29.715587,75.900961,2012,Kharif,Castor seed,88,40,298.35,67,373,Sandy Soil
+374,Haryana,FATEHABAD,Fatehabad,29.715587,75.900961,2012,Rabi,Barley,2878,12000,298.35,67,373,Sandy Soil
+375,Haryana,FATEHABAD,Fatehabad,29.715587,75.900961,2012,Whole Year,Onion,400,8000,298.35,67,373,Sandy Soil
+376,Haryana,GURGAON,Gurugram,28.451204,77.087719,2011,Kharif,Arhar/Tur,320,300,298.05,49,714,Loamy soil
+377,Haryana,GURGAON,Gurugram,28.43132,77.072134,2011,Kharif,Bajra,31450,71000,298.05,49,714,Loamy soil
+378,Haryana,GURGAON,Gurugram,28.439105,77.040909,2011,Kharif,Jowar,1154,1000,298.05,49,714,Loamy soil
+379,Haryana,GURGAON,Gurugram,28.439328,77.10227,2011,Kharif,Rice,4803,15000,298.05,49,714,Loamy soil
+380,Haryana,GURGAON,Gurugram,28.478407,76.902714,2011,Kharif,Sesamum,190,100,298.05,49,714,Loamy soil
+381,Haryana,GURGAON,Gurugram,28.420003,77.048378,2011,Rabi,Barley,1818,9000,298.05,49,714,Loamy soil
+382,Haryana,GURGAON,Gurugram,28.456975,77.07299,2011,Rabi,Wheat,52388,258000,298.05,49,714,Loamy soil
+383,Haryana,GURGAON,Gurugram,28.456965,77.07297,2011,Whole Year,Onion,48,900,298.05,49,714,Loamy soil
+384,Haryana,GURGAON,Gurugram,28.511841,76.986694,2011,Whole Year,Potato,12,300,298.05,49,714,Loamy soil
+385,Haryana,GURGAON,Gurugram,28.478407,76.902714,2012,Kharif,Arhar/Tur,679,764,298.05,49,714,Loamy soil
+386,Haryana,GURGAON,Gurugram,28.456965,77.07297,2012,Kharif,Bajra,30488,69000,298.05,49,714,Loamy soil
+387,Haryana,HISAR,Hisar,29.157025,75.722428,2012,Kharif,Bajra,28423,60000,297.65,43,450,Loamy soil
+388,Haryana,HISAR,Hisar,29.140858,75.734103,2012,Kharif,Castor seed,208,83,297.65,43,450,Loamy soil
+389,Haryana,KAITHAL,Kaithal,29.793446,76.421959,2012,Kharif,Bajra,4588,13000,298.15,53,563,Loamy soil
+390,Haryana,KAITHAL,Kaithal,29.844728,76.441361,2012,Kharif,Rice,162461,512000,298.15,53,563,Loamy soil
+391,Haryana,KAITHAL,Kaithal,29.696067,76.994185,2012,Rabi,Masoor,108,151,298.15,53,563,Loamy soil
+392,Haryana,KARNAL,Karnal,28.4734936,77.2906064,2012,Kharif,Arhar/Tur,139,132,296.95,48,828,Sandy Soil
+393,Haryana,KARNAL,Karnal,28.701048,77.103863,2012,Kharif,Bajra,902,2000,296.95,48,828,Sandy Soil
+394,Haryana,PANIPAT,Panipat,29.39369,76.969115,2012,Rabi,Masoor,38,47,297.35,51,781,Sandy Soil
+395,Haryana,PANIPAT,Panipat,29.398644,76.966314,2012,Rabi,Wheat,85907,395000,297.35,51,781,Sandy Soil
+396,Haryana,PANIPAT,Panipat,29.391662,76.957172,2012,Whole Year,Onion,24,700,297.35,51,781,Sandy Soil
+397,Haryana,PANIPAT,Panipat,29.39369,76.969115,2012,Whole Year,Sugarcane,7067,647000,297.35,51,781,Sandy Soil
+398,Haryana,REWARI,Rewari,28.187832,76.616935,2012,Kharif,Arhar/Tur,183,178,298.35,49,570,Sandy Soil
+399,Haryana,REWARI,Rewari,28.202218,76.619789,2012,Rabi,Barley,1805,7000,298.35,49,570,Sandy Soil
+400,Himachal Pradesh,BILASPUR,Bilaspur,31.335735,76.765248,2010,Whole Year,Dry chillies,12,5,292.05,36,1078,Alluvial Soil
+401,Himachal Pradesh,BILASPUR,Bilaspur,31.335735,76.765248,2010,Whole Year,Sugarcane,6,48,292.05,36,1078,Alluvial Soil
+402,Himachal Pradesh,CHAMBA,Chamba,32.558834,76.12246,2010,Rabi,Potato,178,1669,291.75,61,1621,Loamy soil
+403,Himachal Pradesh,CHAMBA,Chamba,32.558834,76.12246,2010,Whole Year,Dry chillies,50,21,291.75,61,1621,Loamy soil
+404,Himachal Pradesh,HAMIRPUR,Hamirpur,31.609374,76.569182,2010,Kharif,Rice,1908,2870,306.15,44,248,Alluvial Soil
+405,Himachal Pradesh,HAMIRPUR,Hamirpur,31.679905,76.527416,2010,Rabi,Barley,38,55,306.15,44,248,Alluvial Soil
+406,Himachal Pradesh,KANGRA,Kangra,32.0982738,76.3007658,2010,Kharif,Maize,58205,111084,287.15,49,248,Alluvial Soil
+407,Himachal Pradesh,KANGRA,Kangra,32.107726,76.534876,2010,Kharif,Ragi,19,23,287.15,49,248,Alluvial Soil
+408,Himachal Pradesh,KANGRA,Kangra,32.2129086,76.3194044,2010,Rabi,Barley,3129,5311,287.15,49,248,Alluvial Soil
+409,Himachal Pradesh,KANGRA,Kangra,32.107726,76.534876,2010,Rabi,Gram,212,167,287.15,49,248,Alluvial Soil
+410,Himachal Pradesh,SHIMLA,Shimla,31.201285,77.752272,2010,Kharif,Bajra,5,3,290.15,55,1577,Sandy Soil
+411,Himachal Pradesh,SHIMLA,Shimla,31.1071605,77.1831203,2010,Kharif,Ginger,193,2008,290.15,55,1577,Sandy Soil
+412,Himachal Pradesh,SHIMLA,Shimla,31.103536,77.17218,2010,Rabi,Barley,3424,5776,290.15,55,1577,Sandy Soil
+413,Himachal Pradesh,SHIMLA,Shimla,31.096648,77.175267,2010,Rabi,Garlic,145,205,290.15,55,1577,Sandy Soil
+414,Himachal Pradesh,SHIMLA,Shimla,31.4470213,77.6294213,2010,Rabi,Masoor,45,42,290.15,55,1577,Sandy Soil
+415,Himachal Pradesh,SIRMAUR,Sirmaur,30.559933,77.295483,2010,Rabi,Wheat,26313,54372,290.15,55,1577,Sandy Soil
+416,Himachal Pradesh,SOLAN,Solan,30.9491629,76.8319738,2010,Kharif,Urad,894,193,288.15,66,1262,Loamy soil
+417,Himachal Pradesh,SOLAN,Solan,30.8713445,77.0863049,2010,Rabi,Barley,1515,1470,288.15,66,1262,Loamy soil
+418,Himachal Pradesh,SOLAN,Solan,30.90738,77.107075,2010,Whole Year,Sugarcane,26,376,288.15,66,1262,Loamy soil
+419,Jharkhand,BOKARO,Bokaro,23.644138,86.151112,2010,Rabi,Arhar/Tur,262,451,298.15,72,1230,Sandy Soil
+420,Jharkhand,BOKARO,Bokaro,23.675112,86.145632,2010,Rabi,Gram,38,17,298.15,72,1230,Sandy Soil
+421,Jharkhand,BOKARO,Bokaro,23.633257,86.173506,2010,Rabi,Onion,171,1124,298.15,72,1230,Sandy Soil
+422,Jharkhand,BOKARO,Bokaro,23.633257,86.173506,2010,Rabi,Potato,659,5497,298.15,72,1230,Sandy Soil
+423,Jharkhand,BOKARO,Bokaro,23.675112,86.145632,2010,Rabi,Wheat,470,571,298.15,72,1230,Sandy Soil
+424,Jharkhand,DEOGHAR,Deogarh,24.491027,86.693996,2010,Rabi,Gram,309,274,297.45,59,600,Sandy Soil
+425,Jharkhand,DEOGHAR,Deogarh,24.491027,86.693996,2010,Rabi,Onion,23,236,297.45,59,600,Sandy Soil
+426,Jharkhand,DHANBAD,Dhanbad,23.7976877,86.4356088,2010,Rabi,Arhar/Tur,1,0.6,298.15,69,1241,Sandy Soil
+427,Jharkhand,DHANBAD,Dhanbad,23.8057146,86.4509654,2010,Rabi,Gram,4,0.16,298.15,69,1241,Sandy Soil
+428,Jharkhand,DHANBAD,Dhanbad,23.806393,86.43059,2010,Rabi,Onion,5,32,298.15,69,1241,Sandy Soil
+429,Jharkhand,DHANBAD,Dhanbad,23.806393,86.43059,2010,Rabi,Potato,88,360,298.15,69,1241,Sandy Soil
+430,Jharkhand,DHANBAD,Dhanbad,23.8057146,86.4509654,2010,Rabi,Wheat,40,56,298.15,69,1241,Sandy Soil
+431,Jharkhand,DUMKA,Dumka,24.267264,87.251613,2010,Rabi,Gram,2320,1496,291.15,70,1422,Sandy Soil
+432,Jharkhand,DUMKA,Dumka,24.267264,87.251613,2010,Rabi,Onion,110,1131,291.15,70,1422,Sandy Soil
+433,Jharkhand,EAST SINGHBHUM,Jamshedpur,22.811699,86.210334,2010,Rabi,Gram,140,85,298.85,73,1268,Red Soil
+434,Jharkhand,EAST SINGHBHUM,Jamshedpur,22.804227,86.181256,2010,Rabi,Onion,3,17,298.85,73,1268,Red Soil
+435,Jharkhand,EAST SINGHBHUM,Jamshedpur,22.804227,86.181256,2010,Rabi,Potato,27,47,298.85,73,1268,Red Soil
+436,Jharkhand,GARHWA,Garhwa,24.158163,83.802052,2010,Rabi,Gram,2375,1389,298.85,44,873,Sandy Soil
+437,Jharkhand,GARHWA,Garhwa,24.158163,83.802052,2010,Rabi,Masoor,712,372,298.85,44,873,Sandy Soil
+438,Jharkhand,GIRIDIH,Giridh,24.1879903,86.3064543,2010,Rabi,Gram,296,139,297.55,63,1237,Loamy soil
+439,Jharkhand,GIRIDIH,Giridh,24.1879903,86.3064543,2010,Rabi,Potato,2385,15846,297.55,63,1237,Loamy soil
+440,Jharkhand,GUMLA,Gumla,23.0346771,84.5383358,2010,Rabi,Gram,305,157,301.45,66,1450,Red Soil
+441,Jharkhand,GUMLA,Gumla,23.0346771,84.5383358,2010,Rabi,Onion,298,1663,301.45,66,1450,Red Soil
+442,Jharkhand,HAZARIBAGH,Hazaribagh,23.997502,85.3564179,2010,Rabi,Gram,775,634,296.05,68,1255,Sandy Soil
+443,Jharkhand,HAZARIBAGH,Hazaribagh,23.997502,85.3564179,2010,Rabi,Onion,213,1223,296.05,68,1255,Sandy Soil
+444,Jharkhand,RAMGARH,Ramgarh,23.6484192,85.5093472,2010,Rabi,Potato,775,3578,296.05,68,1255,Red and Yellow Soil
+445,Jharkhand,RANCHI,Ranchi,23.313367,85.277743,2010,Rabi,Gram,340,334,296.25,84,1358,Laterite Soil
+446,Jharkhand,RANCHI,Ranchi,23.388964,85.349138,2010,Rabi,Onion,337,1646,296.25,84,1358,Laterite Soil
+447,Jharkhand,RANCHI,Ranchi,23.408788,85.321355,2010,Rabi,Potato,1776,13402,296.25,84,1358,Laterite Soil
+448,Jharkhand,RANCHI,Ranchi,23.3882502,85.3281205,2010,Rabi,Wheat,2198,3246,296.25,84,1358,Laterite Soil
+449,Jharkhand,RANCHI,Ranchi,23.4507571,85.4370738,2007,Rabi,Potato,2516.19,8173,296.25,84,1358,Laterite Soil
+450,Jharkhand,RANCHI,Ranchi,23.371161,85.317141,2007,Rabi,Wheat,3314.12,5601,296.25,84,1358,Laterite Soil
+451,Jharkhand,RANCHI,Ranchi,23.3451234,85.1106008,2007,Rabi,Onion,451.88,3492,296.25,84,1358,Laterite Soil
+452,Jharkhand,RANCHI,Ranchi,23.3691335,85.2204851,2007,Rabi,Gram,494.17,630,296.25,84,1358,Laterite Soil
+453,Jharkhand,RANCHI,Ranchi,23.349938,85.330008,2007,Autumn,Maize,3191.89,3964,296.25,84,1358,Laterite Soil
+454,Jharkhand,RANCHI,Ranchi,23.3496021,85.3796172,2007,Autumn,Ragi,9232.23,7450,296.25,84,1358,Laterite Soil
+455,Jharkhand,RANCHI,Ranchi,23.395757,85.351652,2007,Autumn,Rice,48459.12,40932,296.25,84,1358,Laterite Soil
+456,Jharkhand,RANCHI,Ranchi,23.38949,85.346526,2007,Winter,Potato,3024.24,18339,296.25,84,1358,Laterite Soil
+457,Jharkhand,RANCHI,Ranchi,23.38949,85.346526,2007,Winter,Rice,102622.65,130878,296.25,84,1358,Laterite Soil
+458,Jharkhand,SAHEBGANJ,Sahebganj,25.235841,87.634215,2010,Rabi,Gram,701,658,298.15,73,1575,Alluvial Soil
+459,Jharkhand,SAHEBGANJ,Sahebganj,25.235841,87.634215,2010,Rabi,Onion,27,278,298.15,73,1575,Alluvial Soil
+460,Jharkhand,SAHEBGANJ,Sahebganj,25.235841,87.634215,2007,Rabi,Potato,148.42,1837,298.15,73,1575,Alluvial Soil
+461,Jharkhand,SAHEBGANJ,Sahebganj,25.235841,87.634215,2007,Autumn,Maize,1548.8,1120,298.15,73,1575,Alluvial Soil
+462,Jharkhand,SAHEBGANJ,Sahebganj,25.235841,87.634215,2007,Winter,Rice,30002.55,27022,298.15,73,1575,Alluvial Soil
+463,Jharkhand,SAHEBGANJ,Sahebganj,25.235841,87.634215,2006,Rabi,Gram,709.36,411,298.15,73,1575,Alluvial Soil
+464,Jharkhand,SAHEBGANJ,Sahebganj,25.235841,87.634215,2006,Rabi,Masoor,661.63,361,298.15,73,1575,Alluvial Soil
+465,Jharkhand,SAHEBGANJ,Sahebganj,25.235841,87.634215,2006,Autumn,Maize,1701.03,1465,298.15,73,1575,Alluvial Soil
+466,Jharkhand,SAHEBGANJ,Sahebganj,25.235841,87.634215,2005,Rabi,Gram,660.97,500.35,298.15,73,1575,Alluvial Soil
+467,Jharkhand,SAHEBGANJ,Sahebganj,25.235841,87.634215,2005,Winter,Rice,29486.43,25279.7,298.15,73,1575,Alluvial Soil
+468,Jharkhand,SAHEBGANJ,Sahebganj,25.235841,87.634215,2005,Autumn,Maize,1178.42,1159.57,298.15,73,1575,Alluvial Soil
+469,Jharkhand,SIMDEGA,Simdega,22.6149779,84.5028825,2010,Rabi,Gram,205,67,298.25,54,1450,Sandy Loam Soil
+470,Jharkhand,SIMDEGA,Simdega,22.6149779,84.5028825,2007,Rabi,Onion,182.45,937,298.25,54,1450,Sandy Loam Soil
+471,Jharkhand,SIMDEGA,Simdega,22.6149779,84.5028825,2007,Winter,Potato,379.68,3625,298.25,54,1450,Sandy Loam Soil
+472,Jharkhand,SIMDEGA,Simdega,22.6149779,84.5028825,2007,Autumn,Maize,488.44,614,298.25,54,1450,Sandy Loam Soil
+473,Jharkhand,SIMDEGA,Simdega,22.6149779,84.5028825,2006,Winter,Potato,380.85,1816,298.25,54,1450,Sandy Loam Soil
+474,Jharkhand,SIMDEGA,Simdega,22.6149779,84.5028825,2006,Rabi,Gram,263.25,201,298.25,54,1450,Sandy Loam Soil
+475,Jharkhand,SIMDEGA,Simdega,22.6149779,84.5028825,2006,Autumn,Ragi,5335.5,1558,298.25,54,1450,Sandy Loam Soil
+476,Jharkhand,WEST SINGHBHUM,Chaibasa,22.5505168,85.8054811,2010,Rabi,Gram,274,167,299.15,71,1191,Loamy soil
+477,Jharkhand,WEST SINGHBHUM,KIRIBURU,22.104554,85.291571,2010,Rabi,Masoor,45,36,299.15,71,1191,Loamy soil
+478,Jharkhand,WEST SINGHBHUM,Noamundi,22.145873,85.494402,2010,Rabi,Potato,35,46,299.15,71,1191,Loamy soil
+479,Jharkhand,WEST SINGHBHUM,Noamundi,22.145873,85.494402,2007,Rabi,Gram,233.53,262,299.15,71,1191,Loamy soil
+480,Jharkhand,WEST SINGHBHUM,KIRIBURU,22.104554,85.291571,2007,Rabi,Masoor,49.3,32,299.15,71,1191,Loamy soil
+481,Jharkhand,WEST SINGHBHUM,Chaibasa,22.5505168,85.8054811,2007,Rabi,Potato,16.86,105,299.15,71,1191,Loamy soil
+482,Jharkhand,WEST SINGHBHUM,Chaibasa,22.5505168,85.8054811,2006,Autumn,Maize,1429.78,1055,299.15,71,1191,Loamy soil
+483,Jharkhand,WEST SINGHBHUM,KIRIBURU,22.104554,85.291571,2006,Autumn,Ragi,656.79,520,299.15,71,1191,Loamy soil
+484,Jharkhand,WEST SINGHBHUM,Noamundi,22.145873,85.494402,2006,Autumn,Rice,6695.48,3312,299.15,71,1191,Loamy soil
+485,Jharkhand,WEST SINGHBHUM,Noamundi,22.145873,85.494402,2005,Rabi,Gram,224.48,107.53,299.15,71,1191,Loamy soil
+486,Jharkhand,WEST SINGHBHUM,KIRIBURU,22.104554,85.291571,2005,Rabi,Wheat,82.84,75.72,299.15,71,1191,Loamy soil
+487,Jharkhand,WEST SINGHBHUM,Chaibasa,22.5505168,85.8054811,2005,Autumn,Maize,1301.6,1205.28,299.15,71,1191,Loamy soil
+488,Karnataka,BAGALKOT,Bagalkot,16.186132,75.70653,2014,Kharif,Bajra,22021,24288,298.45,43,562,Black soil
+489,Karnataka,BAGALKOT,Bagalkot,16.165075,75.675072,2014,Kharif,Dry chillies,977,1788,298.45,43,562,Black soil
+490,Karnataka,BAGALKOT,Bagalkot,16.165011,75.660812,2014,Kharif,Jowar,965,1492,298.45,43,562,Black soil
+491,Karnataka,BAGALKOT,Bagalkot,15.364709,75.123955,2014,Kharif,Maize,44472,166543,298.45,43,562,Black soil
+492,Karnataka,BAGALKOT,Bagalkot,16.325218,75.289397,2014,Kharif,Onion,10969,82750,298.45,43,562,Black soil
+493,Karnataka,BAGALKOT,Bagalkot,16.325218,75.289397,2013,Kharif,Jowar,2708,4757,298.45,43,562,Black soil
+494,Karnataka,BAGALKOT,Bagalkot,15.364709,75.123955,2013,Kharif,Maize,51814,183308,298.45,43,562,Black soil
+495,Karnataka,BAGALKOT,Bagalkot,16.165011,75.660812,2013,Kharif,Onion,10683,96861,298.45,43,562,Black soil
+496,Karnataka,BAGALKOT,Bagalkot,16.165075,75.675072,2013,Kharif,Rice,54,160,298.45,43,562,Black soil
+497,Karnataka,BAGALKOT,Bagalkot,16.186132,75.70653,2013,Kharif,Soyabean,3011,3613,298.45,43,562,Black soil
+498,Karnataka,BENGALURU,Bangalore,13.160791,77.323405,2014,Kharif,Castor seed,233,142,296.05,65,970,Red Loamy Soil
+499,Karnataka,BENGALURU,Bangalore,13.077457,77.811502,2014,Kharif,Dry chillies,366,414,296.05,65,970,Red Loamy Soil
+500,Karnataka,BENGALURU,Bangalore,12.911276,77.486216,2014,Kharif,Groundnut,275,155,296.05,65,970,Red Loamy Soil
+501,Karnataka,BENGALURU,Bangalore,13.097983,77.38581,2014,Kharif,Horse-gram,1223,754,296.05,65,970,Red Loamy Soil
+502,Karnataka,BENGALURU,Bangalore,12.80927,77.695173,2014,Kharif,Maize,14334,44066,296.05,65,970,Red Loamy Soil
+503,Karnataka,BENGALURU,Bangalore,12.987532,77.604913,2014,Kharif,Onion,69,354,296.05,65,970,Red Loamy Soil
+504,Karnataka,BENGALURU,Bangalore,12.9649846,77.589012,2014,Kharif,Potato,439,2702,296.05,65,970,Red Loamy Soil
+505,Karnataka,BENGALURU,Bangalore,13.054677,77.592504,2014,Kharif,Ragi,35844,91940,296.05,65,970,Red Loamy Soil
+506,Karnataka,BENGALURU,Bangalore,13.053662,77.717912,2014,Kharif,Rice,598,2093,296.05,65,970,Red Loamy Soil
+507,Karnataka,BENGALURU,Bangalore,12.965837,77.576262,2014,Kharif,Sunflower,18,10,296.05,65,970,Red Loamy Soil
+508,Karnataka,BENGALURU,Bangalore,12.9978842,77.5411603,2014,Kharif,Urad,3,1,296.05,65,970,Red Loamy Soil
+509,Karnataka,BENGALURU,Bangalore,12.998074,77.571614,2014,Rabi,Dry chillies,24,45,296.05,65,970,Red Loamy Soil
+510,Karnataka,BENGALURU,Bangalore,12.99807,77.580434,2014,Rabi,Gram,270,194,296.05,65,970,Red Loamy Soil
+511,Karnataka,BENGALURU,Bangalore,12.956353,77.574114,2014,Rabi,Horse-gram,452,222,296.05,65,970,Red Loamy Soil
+512,Karnataka,BENGALURU,Bangalore,13.035289,77.589935,2014,Rabi,Maize,127,429,296.05,65,970,Red Loamy Soil
+513,Karnataka,BENGALURU,Bangalore,12.935769,77.593859,2014,Rabi,Onion,11,73,296.05,65,970,Red Loamy Soil
+514,Karnataka,BENGALURU,Bangalore,12.963399,77.573818,2014,Rabi,Potato,356,6630,296.05,65,970,Red Loamy Soil
+515,Karnataka,BENGALURU,Bangalore,13.030487,77.566648,2014,Rabi,Ragi,76,123,296.05,65,970,Red Loamy Soil
+516,Karnataka,BENGALURU,Bangalore,12.970679,77.586085,2014,Summer,Dry chillies,9,17,296.05,65,970,Red Loamy Soil
+517,Karnataka,BENGALURU,Bangalore,12.93759,77.598537,2014,Summer,Groundnut,23,20,296.05,65,970,Red Loamy Soil
+518,Karnataka,BENGALURU,Bangalore,12.94039,77.59883,2014,Summer,Maize,99,323,296.05,65,970,Red Loamy Soil
+519,Karnataka,BENGALURU,Bangalore,12.929482,77.620182,2014,Summer,Onion,6,29,296.05,65,970,Red Loamy Soil
+520,Karnataka,BENGALURU,Bangalore,12.968063,77.595068,2014,Summer,Potato,65,891,296.05,65,970,Red Loamy Soil
+521,Karnataka,BENGALURU,Bangalore,12.962447,77.665284,2014,Summer,Ragi,42,75,296.05,65,970,Red Loamy Soil
+522,Karnataka,BENGALURU,Bangalore,12.965428,77.610476,2014,Summer,Rice,49,150,296.05,65,970,Red Loamy Soil
+523,Karnataka,BENGALURU,Bangalore,12.996389,77.56931,2014,Summer,Sunflower,1,1,296.05,65,970,Red Loamy Soil
+524,Karnataka,BENGALURU,Bangalore,12.963321,77.62882,2014,Whole Year,Arecanut,1519,14055,296.05,65,970,Red Loamy Soil
+525,Karnataka,BENGALURU,Bangalore,12.990775,77.553498,2014,Whole Year,Black pepper,1,6,296.05,65,970,Red Loamy Soil
+526,Karnataka,BENGALURU,Bangalore,12.954814,77.565362,2014,Whole Year,Cashewnut,24,18,296.05,65,970,Red Loamy Soil
+527,Karnataka,BENGALURU,Bangalore,13.025275,77.614217,2014,Whole Year,Coconut,2255,20123,296.05,65,970,Red Loamy Soil
+528,Karnataka,BENGALURU,Bangalore,12.969035,77.61346,2014,Whole Year,Coriander,37,13,296.05,65,970,Red Loamy Soil
+529,Karnataka,BENGALURU,Bangalore,13.026155,77.588859,2014,Whole Year,Dry ginger,11,320,296.05,65,970,Red Loamy Soil
+530,Karnataka,BENGALURU,Bangalore,12.981135,77.729224,2014,Whole Year,Garlic,3,3,296.05,65,970,Red Loamy Soil
+531,Karnataka,BENGALURU,Bangalore,12.9982,77.551623,2014,Whole Year,Sweet potato,19,322,296.05,65,970,Red Loamy Soil
+532,Karnataka,BENGALURU,Bangalore,12.989645,77.592754,2014,Whole Year,Tapioca,6,54,296.05,65,970,Red Loamy Soil
+533,Karnataka,BENGALURU,Bangalore,12.917957,77.599329,2014,Whole Year,Turmeric,1,6,296.05,65,970,Red Loamy Soil
+534,Karnataka,BENGALURU,Bangalore,12.975378,77.72927,2013,Rabi,Dry chillies,9,17,296.05,65,970,Red Loamy Soil
+535,Karnataka,BENGALURU,Bangalore,12.989853,77.552805,2013,Rabi,Gram,229,173,296.05,65,970,Red Loamy Soil
+536,Karnataka,BENGALURU,Bangalore,12.982165,77.604276,2013,Rabi,Horsegram,397,203,296.05,65,970,Red Loamy Soil
+537,Karnataka,BENGALURU,Bangalore,13.019584,77.557981,2013,Rabi,Maize,112,343,296.05,65,970,Red Loamy Soil
+538,Karnataka,BENGALURU,Bangalore,12.974445,77.549288,2013,Rabi,Onion,15,105,296.05,65,970,Red Loamy Soil
+539,Karnataka,BENGALURU,Bangalore,12.937319,77.592016,2013,Rabi,Potato,362,5810,296.05,65,970,Red Loamy Soil
+540,Karnataka,BENGALURU,Bangalore,12.896508,77.46166,2013,Rabi,Ragi,177,258,296.05,65,970,Red Loamy Soil
+541,Karnataka,BENGALURU,Bangalore,12.9157415,77.5909561,2013,Summer,Dry chillies,2,5,296.05,65,970,Red Loamy Soil
+542,Karnataka,BENGALURU,Bangalore,12.961633,77.571067,2013,Summer,Groundnut,41,37,296.05,65,970,Red Loamy Soil
+543,Karnataka,BENGALURU,Bangalore,12.984218,77.578831,2013,Summer,Maize,78,253,296.05,65,970,Red Loamy Soil
+544,Karnataka,BENGALURU,Bangalore,12.89643,77.598015,2013,Summer,Onion,182,1429,296.05,65,970,Red Loamy Soil
+545,Karnataka,BENGALURU,Bangalore,12.969227,77.536519,2013,Summer,Potato,23,323,296.05,65,970,Red Loamy Soil
+546,Karnataka,BIJAPUR,Bijapur,16.828098,75.691713,2014,Kharif,Bajra,48810,37281,305.85,42,578,Black soil
+547,Karnataka,BIJAPUR,Bijapur,16.845101,75.710641,2014,Kharif,Dry chillies,1003,899,305.85,42,578,Black soil
+548,Karnataka,BIJAPUR,Bijapur,16.827207,75.725839,2014,Kharif,Groundnut,19413,12633,305.85,42,578,Black soil
+549,Karnataka,BIJAPUR,Bijapur,16.8301759,75.7078424,2014,Kharif,Maize,54990,175215,305.85,42,578,Black soil
+550,Karnataka,BIJAPUR,Bijapur,16.825058,75.669209,2014,Kharif,Onion,8824,46298,305.85,42,578,Black soil
+551,Karnataka,BIJAPUR,Bijapur,16.828072,75.709979,2014,Kharif,Rice,50,153,305.85,42,578,Black soil
+552,Karnataka,DAKSHIN KANNAD,Mangalore,12.866805,74.85933,2014,Kharif,Dry chillies,75,85,299.85,77,3479,Alluvial Soil
+553,Karnataka,DAKSHIN KANNAD,Mangalore,12.87963,74.853044,2014,Kharif,Rice,29749,78228,299.85,77,3479,Alluvial Soil
+554,Karnataka,DAKSHIN KANNAD,Mangalore,12.867384,74.843132,2014,Rabi,Dry chillies,38,71,299.85,77,3479,Alluvial Soil
+555,Karnataka,DAKSHIN KANNAD,Mangalore,12.81194,74.881231,2014,Rabi,Rice,21240,51979,299.85,77,3479,Alluvial Soil
+556,Karnataka,DAKSHIN KANNAD,Mangalore,12.899478,74.845975,2014,Rabi,Urad,1752,639,299.85,77,3479,Alluvial Soil
+557,Karnataka,DAKSHIN KANNAD,Mangalore,12.870434,74.844505,2014,Whole Year,Sugarcane,10,912,299.85,77,3479,Alluvial Soil
+558,Karnataka,DAKSHIN KANNAD,Mangalore,13.021405,74.792037,2014,Whole Year,Sweet potato,288,4885,299.85,77,3479,Alluvial Soil
+559,Karnataka,DAKSHIN KANNAD,Mangalore,12.880334,74.853689,2014,Whole Year,Turmeric,60,359,299.85,77,3479,Alluvial Soil
+560,Karnataka,DAKSHIN KANNAD,Mangalore,12.864857,74.83818,2014,Whole Year,Coconut,18407,282127,299.85,77,3479,Alluvial Soil
+561,Karnataka,DHARWAD,Dharwad,15.46373,74.969829,2014,Rabi,Dry chillies,36,68,297.25,76,864,Alluvial Soil
+562,Karnataka,DHARWAD,Dharwad,15.46473,75.010366,2014,Rabi,Gram,50622,41502,297.25,76,864,Alluvial Soil
+563,Karnataka,DHARWAD,Dharwad,15.417904,75.050162,2014,Rabi,Jowar,39070,39492,297.25,76,864,Alluvial Soil
+564,Karnataka,DHARWAD,Dharwad,15.3669,75.128266,2014,Rabi,Maize,3768,8373,297.25,76,864,Alluvial Soil
+565,Karnataka,DHARWAD,Dharwad,15.364705,75.123954,2014,Rabi,Potato,193,2973,297.25,76,864,Alluvial Soil
+566,Karnataka,DHARWAD,Dharwad,15.36472,75.123954,2014,Rabi,Sunflower,3187,1399,297.25,76,864,Alluvial Soil
+567,Karnataka,DHARWAD,Dharwad,15.353643,75.130587,2014,Rabi,Wheat,28985,35714,297.25,76,864,Alluvial Soil
+568,Kerala,ALAPPUZHA,Alappuzha,9.667112,76.339569,2014,Whole Year,Arecanut,1332,641,299.75,79,2564,Sandy Loam Soil
+569,Kerala,ALAPPUZHA,Alappuzha,9.4637103,76.3702515,2014,Whole Year,Banana,450,3733,299.75,79,2564,Sandy Loam Soil
+570,Kerala,ALAPPUZHA,Alappuzha,9.259447,76.596252,2014,Whole Year,Black pepper,614,147,299.75,79,2564,Sandy Loam Soil
+571,Kerala,ALAPPUZHA,Alappuzha,9.304895,76.63545,2014,Whole Year,Cashewnut,1921,318,299.75,79,2564,Sandy Loam Soil
+572,Kerala,ALAPPUZHA,Alappuzha,9.662125,76.338902,2014,Whole Year,Drum Stick,494,334,299.75,79,2564,Sandy Loam Soil
+573,Kerala,ALAPPUZHA,Alappuzha,9.247819,76.521093,2014,Whole Year,Dry ginger,77,261,299.75,79,2564,Sandy Loam Soil
+574,Kerala,ALAPPUZHA,Alappuzha,9.416254,76.347601,2014,Whole Year,Papaya,960,7925,299.75,79,2564,Sandy Loam Soil
+575,Kerala,ERNAKULAM,Ernakulam,10.087575,76.388062,2014,Whole Year,Arecanut,4133,4533,299.65,75,2882,Laterite Soil
+576,Kerala,ERNAKULAM,Ernakulam,10.105151,76.355191,2014,Whole Year,Banana,4904,44953,299.65,75,2882,Laterite Soil
+577,Kerala,ERNAKULAM,Ernakulam,10.090627,76.362146,2014,Whole Year,Black pepper,1913,539,299.65,75,2882,Laterite Soil
+578,Kerala,ERNAKULAM,Ernakulam,10.190395,76.39029,2014,Whole Year,Cashewnut,430,122,299.65,75,2882,Laterite Soil
+579,Kerala,ERNAKULAM,Ernakulam,10.043946,76.277515,2014,Whole Year,Dry ginger,84,265,299.65,75,2882,Laterite Soil
+580,Kerala,ERNAKULAM,Ernakulam,9.971979,76.281693,2014,Whole Year,Sesamum,4,1.07,299.65,75,2882,Laterite Soil
+581,Kerala,ERNAKULAM,Ernakulam,9.946756,76.282561,2014,Whole Year,Sweet potato,3,36,299.65,75,2882,Laterite Soil
+582,Kerala,ERNAKULAM,Ernakulam,10.01486,76.303466,2014,Whole Year,Tapioca,5386,229341,299.65,75,2882,Laterite Soil
+583,Kerala,ERNAKULAM,Ernakulam,9.988224,76.288097,2014,Whole Year,Turmeric,213,640,299.65,75,2882,Laterite Soil
+584,Kerala,ERNAKULAM,Ernakulam,9.983305,76.474382,2014,Whole Year,Coconut,43680,212000000,299.65,75,2882,Laterite Soil
+585,Kerala,ERNAKULAM,Ernakulam,10.033082,76.293881,2014,Winter,Rice,2924,6524,299.65,75,2882,Laterite Soil
+586,Kerala,IDUKKI,Idukki,10.011876,76.958497,2014,Whole Year,Arecanut,2264,1748,301.95,85,3671,Laterite Soil
+587,Kerala,IDUKKI,Idukki,9.746856,76.110248,2014,Whole Year,Banana,3469,31893,301.95,85,3671,Laterite Soil
+588,Kerala,IDUKKI,Idukki,9.535157,76.908953,2014,Whole Year,Black pepper,43852,23916,301.95,85,3671,Laterite Soil
+589,Kerala,IDUKKI,Idukki,10.088585,76.05619,2014,Whole Year,Cardamom,31810,15000,301.95,85,3671,Laterite Soil
+590,Kerala,IDUKKI,Idukki,9.665029,77.158547,2014,Whole Year,Cashewnut,1375,410,301.95,85,3671,Laterite Soil
+591,Kerala,IDUKKI,Idukki,9.848086,76.960597,2014,Whole Year,Coconut,16655,75000000,301.95,85,3671,Laterite Soil
+592,Kerala,KANNUR,Kannur,11.7494919,75.5229777,2014,Whole Year,Arecanut,9180,10660,299.55,73,2410,Laterite Soil
+593,Kerala,KANNUR,Kannur,11.875772,75.499253,2014,Whole Year,Banana,2298,19593,299.55,73,2410,Laterite Soil
+594,Kerala,KANNUR,Kannur,11.994674,75.31285,2014,Whole Year,Black pepper,4626,2146,299.55,73,2410,Laterite Soil
+595,Kerala,KANNUR,Kannur,11.764148,75.479831,2014,Whole Year,Cashewnut,20351,18570,299.55,73,2410,Laterite Soil
+596,Kerala,KANNUR,Kannur,11.861216,75.370639,2014,Whole Year,Coconut,85807,533000000,299.55,73,2410,Laterite Soil
+597,Kerala,KANNUR,Kannur,12.072392,75.294333,2014,Whole Year,Dry ginger,55,248,299.55,73,2410,Laterite Soil
+598,Kerala,KANNUR,Kannur,12.106236,75.209538,2014,Whole Year,Sweet potato,32,353,299.55,73,2410,Laterite Soil
+599,Kerala,KANNUR,Kannur,11.759133,75.478803,2014,Whole Year,Turmeric,135,479,299.55,73,2410,Laterite Soil
+600,Madhya Pradesh,BHOPAL,Bhopal,23.259924,77.390958,2013,Kharif,Groundnut,318,327,298.45,58,1126,Black soil
+601,Madhya Pradesh,BHOPAL,Bhopal,23.18006,77.25035,2013,Kharif,Jowar,26,25,298.45,58,1126,Black soil
+602,Madhya Pradesh,BHOPAL,Bhopal,23.229861,77.417539,2013,Kharif,Maize,2223,1684,298.45,58,1126,Black soil
+603,Madhya Pradesh,BHOPAL,Bhopal,23.1549,77.244677,2013,Kharif,Rice,522,678,298.45,58,1126,Black soil
+604,Madhya Pradesh,BHOPAL,Bhopal,23.2307,77.419553,2013,Kharif,Sannhamp,5,5,298.45,58,1126,Black soil
+605,Madhya Pradesh,BHOPAL,Bhopal,23.222946,77.446666,2013,Kharif,Soyabean,114254,72556,298.45,58,1126,Black soil
+606,Madhya Pradesh,BHOPAL,Bhopal,23.2582415,77.3952417,2013,Kharif,Urad,258,85,298.45,58,1126,Black soil
+607,Madhya Pradesh,BHOPAL,Bhopal,23.25369,77.412695,2013,Rabi,Gram,28520,28399,298.45,58,1126,Black soil
+608,Madhya Pradesh,BHOPAL,Bhopal,23.273077,77.380764,2013,Rabi,Khesari,241,202,298.45,58,1126,Black soil
+609,Madhya Pradesh,BHOPAL,Bhopal,23.301078,77.424616,2013,Rabi,Linseed,16,11,298.45,58,1126,Black soil
+610,Madhya Pradesh,BHOPAL,Bhopal,23.20973,77.437187,2013,Rabi,Masoor,1880,2330,298.45,58,1126,Black soil
+611,Madhya Pradesh,BHOPAL,Bhopal,23.2289768,77.4351847,2013,Rabi,Wheat,84996,317551,298.45,58,1126,Black soil
+612,Madhya Pradesh,BHOPAL,Bhopal,23.258167,77.39707,2013,Whole Year,Coriander,1470,1171,298.45,58,1126,Black soil
+613,Madhya Pradesh,BHOPAL,Bhopal,23.26,77.412,2013,Whole Year,Dry chillies,220,282,298.45,58,1126,Black soil
+614,Madhya Pradesh,BHOPAL,Bhopal,23.178855,77.428807,2013,Whole Year,Garlic,307,919,298.45,58,1126,Black soil
+615,Madhya Pradesh,BHOPAL,Bhopal,23.26,77.39,2013,Whole Year,Onion,696,10216,298.45,58,1126,Black soil
+616,Madhya Pradesh,BHOPAL,Bhopal,23.199485,77.420061,2013,Whole Year,Potato,66,789,298.45,58,1126,Black soil
+617,Madhya Pradesh,GWALIOR,Gwalior,26.192166,78.164638,2013,Kharif,Bajra,7047,13650,298.85,61,700,Alluvial Soil
+618,Madhya Pradesh,GWALIOR,Gwalior,26.225961,78.222716,2013,Kharif,Barley,838,2103,298.85,61,700,Alluvial Soil
+619,Madhya Pradesh,GWALIOR,Gwalior,26.191826,78.159549,2013,Kharif,Groundnut,488,732,298.85,61,700,Alluvial Soil
+620,Madhya Pradesh,GWALIOR,Gwalior,26.195391,78.158556,2013,Kharif,Jowar,3306,5561,298.85,61,700,Alluvial Soil
+621,Madhya Pradesh,GWALIOR,Gwalior,26.191025,78.155889,2013,Kharif,Maize,41,93,298.85,61,700,Alluvial Soil
+622,Madhya Pradesh,INDORE,Indore,22.714476,75.882875,2013,Kharif,Groundnut,116,123,305.35,50,1062,Black soil
+623,Madhya Pradesh,INDORE,Indore,22.7187135,75.8882735,2013,Kharif,Jowar,181,212,305.35,50,1062,Black soil
+624,Madhya Pradesh,INDORE,Indore,22.691901,75.866108,2013,Kharif,Maize,4240,5065,305.35,50,1062,Black soil
+625,Madhya Pradesh,INDORE,Indore,22.716411,75.8760433,2013,Kharif,Soyabean,231222,232841,305.35,50,1062,Black soil
+626,Madhya Pradesh,INDORE,Indore,22.720246,75.8817,2013,Kharif,Urad,85,26,305.35,50,1062,Black soil
+627,Madhya Pradesh,INDORE,Indore,22.732016,75.888857,2013,Rabi,Gram,67221,64032,305.35,50,1062,Black soil
+628,Madhya Pradesh,INDORE,Indore,22.701662,75.829585,2013,Rabi,Khesari,3,3,305.35,50,1062,Black soil
+629,Madhya Pradesh,INDORE,Indore,22.796953,75.845156,2013,Rabi,Linseed,9,5,305.35,50,1062,Black soil
+630,Madhya Pradesh,INDORE,Indore,22.71957,75.857726,2013,Rabi,Masoor,292,116,305.35,50,1062,Black soil
+631,Madhya Pradesh,INDORE,Indore,22.72527,75.889633,2013,Rabi,Wheat,115881,347108,305.35,50,1062,Black soil
+632,Madhya Pradesh,INDORE,Indore,22.7166872,75.8739793,2013,Whole Year,Coriander,35,11,305.35,50,1062,Black soil
+633,Madhya Pradesh,INDORE,Indore,22.71209,75.838098,2013,Whole Year,Dry chillies,120,98,305.35,50,1062,Black soil
+634,Madhya Pradesh,JABALPUR,Jabalpur,23.149881,79.881151,2013,Kharif,Groundnut,158,257,298.65,40,1279,Loamy soil
+635,Madhya Pradesh,JABALPUR,Jabalpur,23.100428,79.565702,2013,Kharif,Jowar,1434,2347,298.65,40,1279,Loamy soil
+636,Madhya Pradesh,JABALPUR,Jabalpur,23.172743,79.936409,2013,Kharif,Maize,4323,5995,298.65,40,1279,Loamy soil
+637,Madhya Pradesh,JABALPUR,Jabalpur,23.164273,79.929699,2013,Kharif,Rice,81546,76621,298.65,40,1279,Loamy soil
+638,Madhya Pradesh,JABALPUR,Jabalpur,23.169545,79.932327,2013,Kharif,Soyabean,43142,11924,298.65,40,1279,Loamy soil
+639,Madhya Pradesh,JABALPUR,Jabalpur,23.1708138,79.9304742,2013,Kharif,Urad,19505,3807,298.65,40,1279,Loamy soil
+640,Madhya Pradesh,JABALPUR,Jabalpur,23.1496957,79.9530199,2013,Rabi,Gram,59922,43461,298.65,40,1279,Loamy soil
+641,Madhya Pradesh,UJJAIN,Ujjain,23.4465681,75.407488,2013,Whole Year,Coriander,984,289,298.35,50,943,Black soil
+642,Madhya Pradesh,UJJAIN,Ujjain,23.105277,75.463821,2013,Whole Year,Dry chillies,72,97,298.35,50,943,Black soil
+643,Madhya Pradesh,UJJAIN,Ujjain,23.168295,75.795961,2013,Whole Year,Garlic,12271,55885,298.35,50,943,Black soil
+644,Madhya Pradesh,UJJAIN,Ujjain,23.192897,75.776423,2013,Whole Year,Onion,4859,109912,298.35,50,943,Black soil
+645,Madhya Pradesh,UJJAIN,Ujjain,23.233015,75.811619,2013,Whole Year,Potato,7211,92178,298.35,50,943,Black soil
+646,Maharashtra,AHMEDNAGAR,Ahmednagar,19.108046,74.73557,2014,Kharif,Bajra,186000,107700,298.45,32,501,Coarse Shallow soil
+647,Maharashtra,AHMEDNAGAR,Ahmednagar,19.88042,74.470873,2014,Kharif,Groundnut,4300,2800,298.45,32,501,Coarse Shallow soil
+648,Maharashtra,AHMEDNAGAR,Ahmednagar,19.419633,74.65553,2014,Kharif,Maize,68100,176100,298.45,32,501,Coarse Shallow soil
+649,Maharashtra,AHMEDNAGAR,Ahmednagar,19.569309,74.206528,2014,Kharif,Niger seed,1500,400,298.45,32,501,Coarse Shallow soil
+650,Maharashtra,AHMEDNAGAR,Ahmednagar,18.501067,73.857499,2014,Kharif,Ragi,3000,3300,298.45,32,501,Coarse Shallow soil
+651,Maharashtra,AHMEDNAGAR,Ahmednagar,19.578952,74.456127,2014,Kharif,Rice,8600,2200,298.45,32,501,Coarse Shallow soil
+652,Maharashtra,AHMEDNAGAR,Ahmednagar,19.6227,74.660399,2014,Kharif,Soyabean,58200,35900,298.45,32,501,Coarse Shallow soil
+653,Maharashtra,AHMEDNAGAR,Ahmednagar,19.763137,74.47058,2014,Kharif,Sunflower,800,400,298.45,32,501,Coarse Shallow soil
+654,Maharashtra,AHMEDNAGAR,Ahmednagar,19.181403,74.689625,2014,Rabi,Gram,115200,85200,298.45,32,501,Coarse Shallow soil
+655,Maharashtra,AHMEDNAGAR,Ahmednagar,19.619247,74.663502,2014,Rabi,Jowar,443600,279800,298.45,32,501,Coarse Shallow soil
+656,Maharashtra,AHMEDNAGAR,Ahmednagar,19.080688,74.732289,2014,Rabi,Maize,29400,57600,298.45,32,501,Coarse Shallow soil
+657,Maharashtra,AHMEDNAGAR,Ahmednagar,19.082959,74.760389,2014,Rabi,Wheat,57200,85000,298.45,32,501,Coarse Shallow soil
+658,Maharashtra,AHMEDNAGAR,Ahmednagar,20.004874,73.787165,2014,Summer,Groundnut,1600,2300,298.45,32,501,Coarse Shallow soil
+659,Maharashtra,AHMEDNAGAR,Ahmednagar,19.117005,74.735872,2014,Summer,Maize,200,400,298.45,32,501,Coarse Shallow soil
+660,Maharashtra,AKOLA,Akola,20.702666,77.001984,2014,Kharif,Bajra,300,100,300.05,79,800,Black soil
+661,Maharashtra,AKOLA,Akola,20.714492,77.008904,2014,Kharif,Jowar,12500,15100,300.05,79,800,Black soil
+662,Maharashtra,AKOLA,Akola,21.106181,77.072925,2014,Kharif,Maize,100,200,300.05,79,800,Black soil
+663,Maharashtra,AKOLA,Akola,21.106181,77.072925,2014,Kharif,Soyabean,233100,69600,300.05,79,800,Black soil
+664,Maharashtra,AKOLA,Akola,20.70644,77.011207,2014,Rabi,Gram,91100,59600,300.05,79,800,Black soil
+665,Maharashtra,AKOLA,Akola,20.724952,77.04278,2014,Rabi,Wheat,18300,25800,300.05,79,800,Black soil
+666,Maharashtra,AKOLA,Akola,21.140578,79.060506,2014,Summer,Groundnut,3100,4400,300.05,79,800,Black soil
+667,Maharashtra,AKOLA,Akola,20.713446,77.011958,2014,Kharif,Sesamum,1000,100,300.05,79,800,Black soil
+668,Maharashtra,AURANGABAD,Aurangabad,19.890542,75.317164,2014,Kharif,Bajra,45300,24200,298.35,61,725,Black soil
+669,Maharashtra,AURANGABAD,Aurangabad,19.877896,75.354519,2014,Kharif,Groundnut,4100,900,298.35,61,725,Black soil
+670,Maharashtra,AURANGABAD,Aurangabad,19.876165,75.343313,2014,Kharif,Jowar,3700,1700,298.35,61,725,Black soil
+671,Maharashtra,AURANGABAD,Aurangabad,19.872123,75.323251,2014,Kharif,Maize,191700,175800,298.35,61,725,Black soil
+672,Maharashtra,AURANGABAD,Aurangabad,19.872742,75.387668,2014,Kharif,Soyabean,18700,8500,298.35,61,725,Black soil
+673,Maharashtra,AURANGABAD,Aurangabad,19.875504,75.352445,2014,Rabi,Gram,41800,16300,298.35,61,725,Black soil
+674,Maharashtra,PUNE,Pune,18.575032,73.80537,2014,Kharif,Bajra,31500,26300,297.45,71,721,Black soil
+675,Maharashtra,PUNE,Pune,18.515846,73.858714,2014,Kharif,Groundnut,47700,43000,297.45,71,721,Black soil
+676,Maharashtra,PUNE,Pune,18.505159,73.889694,2014,Kharif,Jowar,3500,1700,297.45,71,721,Black soil
+677,Maharashtra,PUNE,Pune,18.50092,73.857531,2014,Kharif,Maize,13300,54500,297.45,71,721,Black soil
+678,Maharashtra,PUNE,Pune,18.534391,73.887409,2014,Kharif,Niger seed,2300,600,297.45,71,721,Black soil
+679,Maharashtra,PUNE,Pune,18.506291,73.84264,2014,Kharif,Ragi,12100,13200,297.45,71,721,Black soil
+680,Maharashtra,PUNE,Pune,18.508647,73.844846,2014,Kharif,Rice,82100,136100,297.45,71,721,Black soil
+681,Maharashtra,PUNE,Pune,18.47143,73.959674,2014,Kharif,Soyabean,7100,11700,297.45,71,721,Black soil
+682,Maharashtra,PUNE,Pune,18.735319,73.675984,2014,Kharif,Sunflower,600,300,297.45,71,721,Black soil
+683,Maharashtra,PUNE,Pune,18.530392,73.876808,2014,Rabi,Gram,59900,51800,297.45,71,721,Black soil
+684,Maharashtra,PUNE,Pune,18.519784,73.866906,2014,Rabi,Jowar,268300,131700,297.45,71,721,Black soil
+685,Maharashtra,PUNE,Pune,18.533369,73.876939,2014,Rabi,Maize,21600,77300,297.45,71,721,Black soil
+686,Maharashtra,PUNE,Pune,18.459914,73.855994,2014,Rabi,Safflower,400,300,297.45,71,721,Black soil
+687,Maharashtra,PUNE,Pune,18.624175,73.82126,2014,Rabi,Sunflower,300,200,297.45,71,721,Black soil
+688,Maharashtra,PUNE,Pune,18.502108,73.832232,2014,Rabi,Wheat,71800,108300,297.45,71,721,Black soil
+689,Maharashtra,PUNE,Pune,18.516656,73.866532,2013,Kharif,Bajra,49800,41600,297.45,71,721,Black soil
+690,Maharashtra,PUNE,Pune,18.513091,73.839308,2013,Kharif,Groundnut,46000,37700,297.45,71,721,Black soil
+691,Maharashtra,PUNE,Pune,18.625716,73.774775,2013,Kharif,Jowar,3200,2700,297.45,71,721,Black soil
+692,Maharashtra,PUNE,Pune,18.510752,73.842158,2013,Kharif,Maize,11800,33000,297.45,71,721,Black soil
+693,Maharashtra,PUNE,Pune,18.505035,73.927256,2013,Kharif,Ragi,10600,13600,297.45,71,721,Black soil
+694,Maharashtra,PUNE,Pune,18.45624,73.822183,2013,Kharif,Rice,82100,153200,297.45,71,721,Black soil
+695,Maharashtra,PUNE,Pune,18.624322,73.807929,2013,Rabi,Gram,50600,41200,297.45,71,721,Black soil
+696,Maharashtra,PUNE,Pune,18.762296,73.860866,2013,Rabi,Jowar,251600,158800,297.45,71,721,Black soil
+697,Maharashtra,PUNE,Pune,18.487158,73.857098,2013,Rabi,Maize,19000,57000,297.45,71,721,Black soil
+698,Maharashtra,PUNE,Pune,18.501083,73.939062,2013,Rabi,Wheat,64300,129900,297.45,71,721,Black soil
+699,Maharashtra,PUNE,Pune,18.625689,73.784672,2013,Summer,Groundnut,8100,14600,297.45,71,721,Black soil
+700,Maharashtra,PUNE,Pune,18.56475,73.800994,2013,Summer,Maize,1100,1900,297.45,71,721,Black soil
+750,Rajasthan,AJMER,Beawar,26.08064,74.32643,2014,Kharif,Bajra,56600,30400,298,44,473,Loamy Soil
+751,Rajasthan,AJMER,Ajmer,26.46957,74.63601,2014,Kharif,Cotton(lint),16000,31176,298,44,473,Loamy Soil
+752,Rajasthan,AJMER,Ajmer,26.43962,74.63978,2014,Rabi,Barley,21534,40167,298,44,473,Loamy Soil
+753,Rajasthan,AJMER,Ajmer,26.31027,74.72709,2014,Rabi,Gram,123824,67301,298,44,473,Loamy Soil
+754,Rajasthan,AJMER,Ajmer,26.52447,74.66236,2016,Whole Year,Dry chillies,3504,843,298,44,473,Loamy Soil
+755,Rajasthan,AJMER,Ajmer,26.4744,74.61229,2016,Whole Year,Onion,2809,9137,298,44,473,Loamy Soil
+756,Rajasthan,AJMER,Kishangarh,26.58164,74.86101,2016,Kharif,Jowar,137488,80161,298,44,473,Loamy Soil
+757,Rajasthan,ALWAR,Alwar,27.57247,76.45879,2016,Kharif,Urad,9115,3862,309.15,54,989,Black Soil
+758,Rajasthan,ALWAR,Alwar,27.55089,76.61522,2016,Rabi,Barley,7539,17792,307.15,26,587,Black Soil
+759,Rajasthan,ALWAR,Behror,27.88214,76.28611,2016,Rabi,Gram,20969,15860,307.15,26,587,Black Soil
+760,Rajasthan,BANSWARA,Banswara,23.55325,74.44249,2016,Whole Year,Sweet potato,7,12,307.15,26,587,Black Soil
+761,Rajasthan,BARAN,Baran,25.10438,76.50339,2015,Whole Year,Tobacco,108,118,307.15,50,1334,Black Soil
+762,Rajasthan,BARMER,Barmer,25.7505,71.39635,2015,Kharif,Arhar/Tur,1172,1208,307.15,50,1334,Black Soil
+763,Rajasthan,BHARATPUR,Bharatpur,27.22366,77.50645,2015,Kharif,Bajra,246411,429718,313.15,23,869,Alluvial Soil
+764,Rajasthan,BHARATPUR,Bharatpur,0,0,2015,Kharif,Cotton(lint),2973,1073,313.15,23,869,Alluvial Soil
+765,Rajasthan,BHARATPUR,Bharatpur,27.23027,77.4778,2015,Kharif,Groundnut,1010,1710,313.15,23,869,Alluvial Soil
+766,Rajasthan,BHILWARA,Bhilwara,25.34756,74.64187,2015,Rabi,other oilseeds,373,100,313.15,23,869,Alluvial Soil
+767,Rajasthan,BHILWARA,Bhilwara,25.35836,74.64512,2015,Rabi,Peas & beans (Pulses),102,168,313.15,23,869,Alluvial Soil
+768,Rajasthan,BHILWARA,Bhilwara,25.34976,74.64389,2017,Rabi,Rapeseed &Mustard,234517,285842,313.15,23,869,Alluvial Soil
+769,Rajasthan,BIKANER,Bikaner,28.01238,73.32702,2017,Rabi,Wheat,191440,669054,313.15,23,869,Alluvial Soil
+770,Rajasthan,BIKANER,Bikaner,28.01186,73.35431,2017,Whole Year,Banana,4,10,313.15,23,869,Alluvial Soil
+771,Rajasthan,BIKANER,Bikaner,28.02578,73.29847,2017,Whole Year,Coriander,61,47,313.15,23,869,Alluvial Soil
+772,Rajasthan,BUNDI,Bundi,25.44148,75.64414,2017,Whole Year,Dry chillies,424,749,310.15,91,2162,Black Soil
+773,Rajasthan,CHITTORGARH,Chittorgarh,24.61915,74.68181,2017,Whole Year,Garlic,2,2,310.15,91,2162,Black Soil
+774,Rajasthan,CHITTORGARH,Rawatbhata,24.87368,75.6179,2017,Whole Year,Guar seed,34662,39916,310.15,91,2162,Black Soil
+775,Rajasthan,CHURU,Churu,28.28984,74.95976,2017,Whole Year,Onion,8656,34466,310.15,91,2162,Black Soil
+776,Rajasthan,CHURU,Ratangarh,28.07138,74.62301,2017,Kharif,Moong(Green Gram),32,13,310.15,91,2162,Black Soil
+777,Rajasthan,CHURU,Sujangarh,27.69718,74.47197,2017,Kharif,Moth,26,7,307.15,71,809,Red soil
+778,Rajasthan,DAUSA,Dausa,26.88395,76.33577,2019,Kharif,Other Kharif pulses,4,2,305.15,56,2595,Alluvial Soil
+779,Rajasthan,DHOLPUR,Dholpur,26.69008,77.89964,2019,Kharif,Rice,265,479,305.15,56,2595,Alluvial Soil
+780,Rajasthan,DUNGARPUR,Dungarpur,23.85885,73.71089,2019,Kharif,Sesamum,3453,1000,305.15,56,2595,Alluvial Soil
+781,Rajasthan,HANUMANGARH,Hanumangarh,29.60917,74.29791,2019,Kharif,Urad,9,3,305.15,56,2595,Alluvial Soil
+782,Rajasthan,HANUMANGARH,Hanumangarh,0,0,2019,Rabi,Barley,15725,58074,305.15,56,2595,Alluvial Soil
+783,Rajasthan,JAIPUR,Jaipur,26.90604,75.81622,2019,Rabi,Gram,14301,18391,308.15,53,833,Black Cotton
+784,Rajasthan,JAIPUR,Jaipur,26.89379,75.81217,2019,Rabi,Masoor,61,53,308.15,53,833,Black Cotton
+785,Rajasthan,JAIPUR,Jaipur,26.91478,75.82465,2019,Rabi,Other Rabi pulses,2650,1867,308.15,53,833,Black Cotton
+786,Rajasthan,JAIPUR,Jaipur,26.92593,75.80675,2019,Rabi,other oilseeds,553,188,308.15,53,833,Black Cotton
+787,Rajasthan,JAIPUR,Jaipur,26.86327,75.80582,2019,Rabi,Peas & beans (Pulses),139,77,308.15,53,833,Black Cotton
+788,Rajasthan,JAIPUR,Jaipur,26.85655,75.80052,2019,Rabi,Rapeseed &Mustard,269865,448122,308.15,53,833,Black Cotton
+789,Rajasthan,JAIPUR,Jaipur,26.77081,75.85521,2019,Rabi,Wheat,170172,688076,311.15,63,974,Black Cotton
+790,Rajasthan,JAIPUR,Jaipur,26.91678,75.83,2019,Whole Year,Banana,2,#ERROR!,311.15,63,974,Black Cotton
+791,Rajasthan,JAIPUR,Jaipur,26.88687,75.83414,2019,Whole Year,Coriander,27,30,311.15,63,974,Black Cotton
+792,Rajasthan,JAIPUR,Jaipur,27.19234,75.95482,2019,Whole Year,Dry chillies,273,460,311.15,63,974,Black Cotton
+793,Rajasthan,JAIPUR,Jaipur,26.9573,75.77785,2020,Whole Year,Garlic,3,2,311.15,63,974,Black Cotton
+794,Rajasthan,JAIPUR,Jaipur,26.96885,75.77337,2020,Whole Year,Guar seed,37818,43515,311.15,63,974,Black Cotton
+795,Rajasthan,JAIPUR,Jaipur,26.84618,75.80344,2018,Whole Year,Onion,8481,68733,311.15,63,974,Black Cotton
+796,Rajasthan,JAIPUR,Jaipur,26.79493,75.82459,2018,Whole Year,Potato,91,800,305.15,44,333,Red Soil
+797,Rajasthan,JAIPUR,Jaipur,26.8547,75.82519,2018,Whole Year,Sannhamp,59,61,305.15,44,333,Red Soil
+798,Rajasthan,JAIPUR,Jaipur,26.86811,75.76846,2019,Whole Year,Sugarcane,75,3801,307.15,44,133,Black soil
+799,Rajasthan,JAIPUR,Jaipur,26.9388,75.78092,2019,Whole Year,Sweet potato,28,#ERROR!,307.15,44,133,Black soil
+800,Rajasthan,JAIPUR,Jaipur,26.96794,75.76645,2019,Whole Year,Tobacco,164,196,307.15,44,133,Black soil
+801,Rajasthan,JAIPUR,Jaipur,26.9011,75.7704,2019,Kharif,Arhar/Tur,2608,792,307.15,44,133,Black soil
+802,Rajasthan,JAIPUR,Kotputli,27.70202,76.19091,2018,Kharif,Bajra,276962,312113,307.15,44,133,Black soil
+803,Rajasthan,JAISALMER,Jaisalmer,26.2418,73.02156,2018,Kharif,Cotton(lint),4326,1686,307.15,46,693,Sandy soil
+804,Rajasthan,JALORE,Jalore,25.2351,72.50402,2018,Kharif,Groundnut,1051,2210,307.15,46,693,Sandy soil
+805,Rajasthan,JHALAWAR,Jhalawar,24.58677,76.16062,2018,Kharif,Jowar,43288,14734,303.15,46,730,Sandy soil
+806,Rajasthan,JHUNJHUNU,Jhunjhunu,28.11664,75.3955,2018,Kharif,Maize,7868,6920,303.15,53,882,Black Cotton
+807,Rajasthan,JHUNJHUNU,Jhunjhunu,28.35878,75.60402,2018,Kharif,Moong(Green Gram),27,1,301.15,60,197,Black soil
+808,Rajasthan,JODHPUR,Jodhpur,26.28288,73.01876,2019,Kharif,Moth,13,#ERROR!,300.15,76,3800,Alluvial Soil
+809,Rajasthan,JODHPUR,Jodhpur,26.26642,73.00923,2019,Kharif,Other Kharif pulses,8,1,300.15,76,3800,Alluvial Soil
+810,Rajasthan,JODHPUR,Jodhpur,26.28467,73.00991,2019,Kharif,Rice,346,524,300.15,76,3800,Alluvial Soil
+811,Rajasthan,JODHPUR,Jodhpur,26.28954,73.04717,2019,Kharif,Sesamum,4744,1658,300.15,76,3800,Alluvial Soil
+812,Rajasthan,JODHPUR,Jodhpur,26.27777,73.01529,2019,Kharif,Soyabean,1,1,300.15,76,3800,Alluvial Soil
+813,Rajasthan,JODHPUR,Jodhpur,27.11541,72.4152,2019,Kharif,Urad,5,1,300.15,69,1025.4,Sandy soil
+814,Rajasthan,JODHPUR,Jodhpur,26.23172,73.02106,2019,Rabi,Barley,14533,53906,300.15,69,1025.4,Sandy soil
+815,Rajasthan,JODHPUR,Jodhpur,26.24142,73.00437,2019,Rabi,Gram,9941,10828,300.15,69,1025.4,Sandy soil
+816,Rajasthan,JODHPUR,Jodhpur,26.26942,73.0074,2019,Rabi,Masoor,60,54,299.15,74,2789,Black Cotton Soil
+817,Rajasthan,KARAULI,Karauli,26.50085,77.02583,2019,Rabi,Other Rabi pulses,109,67,299.15,74,2789,Black Cotton Soil
+818,Rajasthan,KOTA,Kota,25.15205,75.8352,2018,Rabi,other oilseeds,1146,422,299.15,74,2789,Black Cotton Soil
+819,Rajasthan,KOTA,Kota,25.15342,75.85183,2018,Rabi,Rapeseed &Mustard,251375,392953,299.15,74,2789,Black Cotton Soil
+820,Rajasthan,KOTA,Kota,25.199,75.85666,2018,Rabi,Wheat,192800,722874,283.15,40,915,Clay soil
+821,Rajasthan,KOTA,Kota,25.11997,75.83115,2018,Whole Year,Banana,4,#ERROR!,283.15,40,915,Clay soil
+822,Rajasthan,KOTA,Kota,25.1447,75.83772,2018,Whole Year,Coriander,27,33,283.15,40,915,Clay soil
+823,Rajasthan,KOTA,Kota,25.15052,75.85215,2018,Whole Year,Dry chillies,325,389,283.15,40,915,Clay soil
+824,Rajasthan,KOTA,Kota,25.16239,75.83148,2016,Whole Year,Garlic,5,5,283.15,40,915,Clay soil
+825,Rajasthan,NAGAUR,NAGAUR,27.20799,73.73722,2016,Whole Year,Guar seed,28868,3466,283.15,40,915,Clay soil
+826,Rajasthan,PALI,Pali,25.77637,73.33218,2016,Whole Year,Onion,7692,71582,297.15,74,360,Sandy Soil
+827,Rajasthan,PALI,Sojat City,25.92223,73.66336,2016,Whole Year,Potato,67,243,295.15,97,815,Sandy Soil
+828,Rajasthan,PALI,Sumerpur,25.13291,73.11258,2016,Whole Year,Sannhamp,36,8,295.15,97,815,Sandy Soil
+829,Rajasthan,PRATAPGARH,Pratapgarh,25.68353,81.99844,2016,Whole Year,Sugarcane,101,5861,299.15,62,3000,Clay soil
+830,Rajasthan,RAJSAMAND,Rajsamand,25.02419,73.88361,2016,Whole Year,Sweet potato,20,#ERROR!,299.15,62,3000,Clay soil
+831,Rajasthan,SAWAI MADHOPUR,Gangapur City,26.48754,76.74024,2016,Whole Year,Tobacco,111,141,299.15,62,3000,Clay soil
+832,Rajasthan,SAWAI MADHOPUR,Sawai Madhopur,25.21754,75.83729,2016,Kharif,Arhar/Tur,5064,4796,295.15,97,2766,Alluvial Soil
+833,Rajasthan,SIKAR,Sikar,27.61311,75.15058,2017,Kharif,Bajra,273147,508361,287.15,52,2600,Alluvial Soil
+834,Rajasthan,SIKAR,Sikar,27.61298,75.15061,2017,Kharif,Cotton(lint),3677,1540,299.15,76,2916,Alluvial Soil
+835,Rajasthan,SIKAR,Sikar,27.61353,75.14529,2017,Kharif,Groundnut,1485,2920,296.15,76,3034,Alluvial Soil
+836,Rajasthan,SIKAR,Sikar,27.61151,75.14906,2017,Kharif,Jowar,31990,20975,299.15,76,3034,Alluvial Soil
+837,Rajasthan,SIROHI,Sirohi,24.88629,72.85942,2017,Kharif,Maize,6773,12200,299.15,76,3034,Alluvial Soil
+838,Rajasthan,SIROHI,Sirohi,24.53829,72.80196,2017,Kharif,Moong(Green Gram),47,29,299.15,76,3034,Alluvial Soil
+839,Rajasthan,SRIGANGANAGAR,Sriganganagar,29.90313,73.87396,2017,Kharif,Moth,23,11,299.15,76,3034,Alluvial Soil
+840,Rajasthan,SRIGANGANAGAR,Sriganganagar,29.91321,73.88183,2017,Kharif,Other Kharif pulses,9,5,299.15,76,3034,Alluvial Soil
+841,Rajasthan,SRIGANGANAGAR,Sriganganagar,29.91577,73.87975,2017,Kharif,Rice,378,766,298.15,76,3034,Alluvial Soil
+842,Rajasthan,SRIGANGANAGAR,Sriganganagar,29.92328,73.87471,2017,Kharif,Sesamum,3390,1266,293.15,84,2042.1,Sandy Soil
+843,Rajasthan,TONK,Tonk,26.1769,75.78533,2017,Kharif,Urad,4,3,296.15,97,3805,Alluvial Soil
+844,Rajasthan,UDAIPUR,Udaipur,24.58911,73.69234,2017,Rabi,Barley,13011,47301,296.15,97,3805,Alluvial Soil
+845,Rajasthan,UDAIPUR,Udaipur,24.59363,73.69636,2017,Rabi,Gram,13667,20643,298.15,70,3130,Alluvial Soil
+846,Rajasthan,UDAIPUR,Udaipur,24.55335,73.73189,2017,Rabi,Linseed,12,13,298.15,70,3130,Alluvial Soil
+847,Rajasthan,UDAIPUR,Udaipur,24.59403,73.69854,2017,Rabi,Masoor,100,87,298.15,62,2993,Sandy Soil
+848,Rajasthan,UDAIPUR,Udaipur,24.58112,73.71286,2017,Rabi,Other Rabi pulses,166,289,297.15,73,2699,Clay soil
+849,Rajasthan,UDAIPUR,Udaipur,24.66886,73.70231,2017,Rabi,other oilseeds,2378,972,297.15,73,2699,Clay soil
+850,Punjab,AMRITSAR,Ajnala,31.80915,74.26834,2017,Kharif,Arhar/Tur,1800,1400,297.15,73,2699,Clay soil
+851,Punjab,AMRITSAR,Amritsar,31.63586,74.96691,2017,Kharif,Bajra,1000,1000,297.15,69,1500,Alluvial Soil
+852,Punjab,AMRITSAR,Amritsar,31.63706,74.85633,2018,Kharif,Maize,7000,14000,297.15,69,1500,Alluvial Soil
+853,Punjab,AMRITSAR,Amritsar,31.644,74.86651,2018,Kharif,Rice,292000,879000,297.15,69,1500,Alluvial Soil
+854,Punjab,AMRITSAR,Amritsar,31.63455,74.85901,2018,Kharif,Sesamum,6000,1700,297.15,69,1500,Alluvial Soil
+855,Punjab,AMRITSAR,Amritsar,31.64996,74.88362,2018,Kharif,Urad,600,200,297.15,69,1500,Alluvial Soil
+856,Punjab,AMRITSAR,Amritsar,31.65116,74.87473,2018,Rabi,Gram,400,300,297.15,69,1500,Alluvial Soil
+857,Punjab,AMRITSAR,Amritsar,31.66466,74.91813,2018,Rabi,Masoor,700,400,297.15,69,1500,Alluvial Soil
+858,Punjab,AMRITSAR,Amritsar,31.615,74.88226,2018,Rabi,Rapeseed &Mustard,8000,6000,297.15,69,1500,Alluvial Soil
+859,Punjab,AMRITSAR,Amritsar,31.64021,75.1801,2018,Rabi,Wheat,349000,1318000,305.15,76,1500,Alluvial Soil
+860,Punjab,AMRITSAR,Amritsar,31.6334,74.87889,2018,Whole Year,Cotton(lint),5000,2000,305.15,76,1500,Alluvial Soil
+861,Punjab,AMRITSAR,Beas,31.51633,75.28801,2019,Whole Year,Moong(Green Gram),8400,5300,305.15,76,1500,Alluvial Soil
+862,Punjab,BARNALA,Barnala,30.37562,75.54488,2019,Whole Year,Sugarcane,11000,600000,305.15,76,1500,Alluvial Soil
+863,Punjab,BATHINDA,Bathinda,30.21644,74.98634,2019,Kharif,Arhar/Tur,1100,700,305.15,76,1500,Alluvial Soil
+864,Punjab,BATHINDA,Bathinda,30.19344,74.94755,2019,Kharif,Cotton(lint),4000,3000,305.15,76,1500,Alluvial Soil
+865,Punjab,BATHINDA,Bathinda,30.19239,74.94698,2019,Kharif,Maize,6000,14000,305.15,76,1500,Alluvial Soil
+866,Punjab,BATHINDA,Bathinda,30.22222,75.05866,2019,Kharif,Moong(Green Gram),8300,5100,305.15,76,1500,Alluvial Soil
+867,Punjab,BATHINDA,Bathinda,30.20747,74.95008,2019,Kharif,Rice,305000,878000,305.15,76,1500,Alluvial Soil
+868,Punjab,BATHINDA,Rampura Phul,30.27457,75.23561,2019,Kharif,Sesamum,4700,1500,305.15,76,1500,Alluvial Soil
+869,Punjab,FARIDKOT,Faridkot,30.68126,74.74761,2019,Kharif,Urad,400,200,305.15,76,1500,Alluvial Soil
+870,Punjab,FARIDKOT,Kotkapura,30.58471,74.82015,2019,Rabi,Gram,2200,200,295.15,70,2416,Clay soil
+871,Punjab,FATEHGARH SAHIB,Fatehgarh Sahib,30.6469,76.39013,2019,Rabi,Masoor,700,600,298.15,62,2800,Sandy Soil
+872,Punjab,FAZILKA,Abohar,30.14167,74.19852,2018,Rabi,Peas & beans (Pulses),400,300,295.15,97,3102.4,Clay soil
+873,Punjab,FAZILKA,Fazilka,30.40713,74.02469,2018,Rabi,Rapeseed &Mustard,4000,4000,297.15,82,1760,Alluvial Soil
+874,Punjab,Ferozpur,Ferozpur,30.9493,74.61945,2018,Rabi,Wheat,214000,862000,297.15,82,1760,Alluvial Soil
+875,Punjab,Ferozpur,Ferozpur,0,0,2018,Whole Year,Sugarcane,9000,540000,297.15,82,1760,Alluvial Soil
+876,Punjab,Ferozpur,Ferozpur City,30.9525,74.60765,2018,Kharif,Arhar/Tur,1200,1300,297.15,82,1760,Alluvial Soil
+877,Punjab,GURDASPUR,Batala,31.80853,75.21545,2018,Kharif,Cotton(lint),2000,3000,299.15,78,1500,Clay soil
+878,Punjab,GURDASPUR,Gurdaspur,32.04084,75.40333,2018,Kharif,Maize,5000,12000,299.15,78,1500,Clay soil
+879,Punjab,GURDASPUR,Pathankot,32.24922,75.64747,2018,Kharif,Moong(Green Gram),6300,4700,296.15,74,2668,Alluvial Soil
+880,Punjab,HOSHIARPUR,Dasuya,31.80726,75.66554,2018,Kharif,Rice,319000,991000,296.15,74,2668,Alluvial Soil
+881,Punjab,HOSHIARPUR,Garshankar,31.21326,76.15116,2018,Kharif,Sesamum,6400,1800,296.15,74,2668,Alluvial Soil
+882,Punjab,HOSHIARPUR,Hoshiarpur,31.52078,75.90047,2018,Kharif,Urad,400,200,297.15,87,3000,Alluvial Soil
+883,Punjab,HOSHIARPUR,Hoshiarpur,31.53081,75.8995,2017,Rabi,Gram,400,400,297.15,87,3000,Alluvial Soil
+884,Punjab,HOSHIARPUR,Hoshiarpur,31.53536,75.90167,2017,Rabi,Masoor,500,500,297.15,87,3000,Alluvial Soil
+885,Punjab,HOSHIARPUR,Hoshiarpur,31.5308,75.90642,2017,Rabi,Peas & beans (Pulses),600,600,297.15,87,3000,Alluvial Soil
+886,Punjab,HOSHIARPUR,Hoshiarpur,31.67519,75.6571,2017,Rabi,Rapeseed &Mustard,5000,6000,298.15,79,2679,Sandy Soil
+887,Punjab,HOSHIARPUR,Mukerian,31.95008,75.61362,2017,Rabi,Wheat,358000,1738000,298.15,79,2679,Sandy Soil
+888,Punjab,JALANDHAR,Jalandhar,31.31744,75.57421,2017,Whole Year,Sugarcane,8000,530000,298.15,79,2679,Sandy Soil
+889,Punjab,JALANDHAR,Jalandhar,31.33071,75.5652,2017,Kharif,Arhar/Tur,1200,1400,298.15,79,2679,Sandy Soil
+890,Punjab,JALANDHAR,Jalandhar,31.31509,75.57322,2017,Kharif,Cotton(lint),2000,2000,301.15,63,1098,Alluvial Soil
+891,Punjab,JALANDHAR,Jalandhar,31.28428,75.62959,2017,Kharif,Maize,5000,11000,301.15,73,960,Alluvial Soil
+892,Punjab,JALANDHAR,Jalandhar,31.30447,75.58764,2017,Kharif,Moong(Green Gram),3500,1900,301.15,73,960,Alluvial Soil
+893,Punjab,JALANDHAR,Jalandhar,31.33705,75.56326,2017,Kharif,Rice,319000,972000,301.15,73,960,Alluvial Soil
+894,Punjab,JALANDHAR,Jalandhar,31.32404,75.56751,2017,Kharif,Sesamum,8700,3400,301.15,73,960,Alluvial Soil
+895,Punjab,JALANDHAR,Jalandhar,31.36386,75.55053,2017,Rabi,Gram,500,500,301.15,73,960,Alluvial Soil
+896,Punjab,JALANDHAR,Jalandhar,31.30119,75.59716,2017,Rabi,Masoor,500,400,301.15,73,960,Alluvial Soil
+897,Punjab,JALANDHAR,Jalandhar,31.32373,75.57816,2017,Rabi,Other Rabi pulses,300,300,301.15,73,960,Alluvial Soil
+898,Punjab,JALANDHAR,Jalandhar,31.30753,75.56728,2017,Rabi,Wheat,361000,1690000,300.15,63,1307,Red Soil
+899,Punjab,JALANDHAR,Jalandhar,31.34279,75.58174,2017,Whole Year,Sugarcane,11000,700000,298.15,50,1300,Red Soil
+900,Punjab,JALANDHAR,Jalandhar,31.33423,75.56331,2017,Kharif,Arhar/Tur,1400,1100,298.15,50,1300,Red Soil
+901,Punjab,JALANDHAR,Jalandhar,31.30668,75.59582,2017,Kharif,Cotton(lint),2000,3000,298.15,50,1155,Clay soil
+902,Punjab,JALANDHAR,Jalandhar,31.36444,75.59744,2017,Kharif,Maize,5000,12000,298.15,50,1155,Clay soil
+903,Punjab,JALANDHAR,Jalandhar,31.32164,75.63247,2017,Kharif,Moong(Green Gram),2700,1600,301.15,52,1172,Loamy soil
+904,Punjab,JALANDHAR,Nakodar,31.12801,75.47587,2017,Kharif,Rice,319000,958000,300.15,50,1450,Clay soil
+905,Punjab,JALANDHAR,Phillaur,31.02158,75.79001,2017,Kharif,Sesamum,9000,3500,301.15,62,1472,Sandy Soil
+906,Punjab,KAPURTHALA,Kapurthala,31.37571,75.382,2017,Rabi,Gram,500,400,301.15,62,1472,Sandy Soil
+907,Punjab,KAPURTHALA,Phagwara,31.22612,75.76766,2017,Rabi,Masoor,600,500,301.15,63,1055,Red Soil
+908,Punjab,KAPURTHALA,Phagwara,31.21909,75.77041,2017,Rabi,Rapeseed &Mustard,300,300,301.15,63,1055,Red Soil
+909,Punjab,LUDHIANA,Khanna,30.70347,76.22283,2017,Rabi,Wheat,363000,1700000,300.15,62,1009,Clay soil
+910,Punjab,LUDHIANA,Ludhiana,31.30225,75.57249,2019,Whole Year,Sugarcane,11000,750000,300.15,63,888,Red Soil
+911,Punjab,LUDHIANA,Ludhiana,30.88543,75.86219,2019,Kharif,Arhar/Tur,1200,1000,298.15,50,1313,Red Soil
+912,Punjab,LUDHIANA,Ludhiana,30.90738,75.84105,2019,Kharif,Cotton(lint),1000,1000,303.15,44,777,Sandy Soil
+913,Punjab,LUDHIANA,Ludhiana,30.91609,75.83577,2019,Kharif,Maize,4000,7000,298.15,76,1250,Sandy Soil
+914,Punjab,LUDHIANA,Ludhiana,30.91067,75.86346,2019,Kharif,Moong(Green Gram),1800,1300,298.15,76,1250,Sandy Soil
+915,Punjab,LUDHIANA,Ludhiana,30.8905,75.88494,2019,Kharif,Rice,311000,879000,300.15,63,1100,Loamy soil
+916,Punjab,LUDHIANA,Ludhiana,30.90663,75.85968,2019,Kharif,Sesamum,5200,1500,298.15,60,1000,Loamy soil
+917,Punjab,LUDHIANA,Ludhiana,30.92049,75.84986,2019,Kharif,Urad,700,300,298.15,60,1000,Loamy soil
+918,Punjab,LUDHIANA,Ludhiana,30.89236,75.81107,2019,Rabi,Gram,300,300,298.15,60,1000,Loamy soil
+919,Punjab,LUDHIANA,Ludhiana,30.88828,75.84586,2019,Rabi,Masoor,500,300,301.15,63,858,Sandy Soil
+920,Punjab,LUDHIANA,Ludhiana,30.88929,75.93514,2019,Rabi,Rapeseed &Mustard,2000,2000,298.15,57,1546,Clay soil
+921,Punjab,LUDHIANA,Ludhiana,30.88335,75.88771,2019,Rabi,Wheat,356000,1513000,299.15,58,1200,Alluvial Soil
+922,Punjab,LUDHIANA,Ludhiana,30.88946,75.83751,2019,Whole Year,Sugarcane,11000,720000,299.15,50,1300,Alluvial Soil
+923,Punjab,LUDHIANA,Ludhiana,30.88878,75.79588,2019,Kharif,Arhar/Tur,1500,1400,299.15,50,1280,Alluvial Soil
+924,Punjab,LUDHIANA,Samrala,0,0,2019,Kharif,Cotton(lint),1000,2000,299.15,50,1280,Alluvial Soil
+925,Punjab,MANSA,Mansa,29.98537,75.40316,2019,Kharif,Maize,4000,13000,299.15,50,1280,Alluvial Soil
+926,Punjab,MOGA,Moga,30.81167,75.16935,2019,Kharif,Moong(Green Gram),2800,1900,299.15,50,1280,Alluvial Soil
+927,Punjab,NAWANSHAHR,Banga,31.18434,75.99599,2019,Kharif,Rice,326000,872000,298.15,50,903.5,Clay soil
+928,Punjab,NAWANSHAHR,Dhahan Kaleeran,31.19374,75.94897,2019,Kharif,Sesamum,3800,1300,298.15,50,903.5,Clay soil
+929,Punjab,NAWANSHAHR,Nawanshahar,31.11854,76.11685,2019,Kharif,Urad,800,300,299.15,53,1112,Sandy Soil
+930,Punjab,PATHANKOT,Pathankot,32.28246,75.65295,2019,Rabi,Gram,300,300,300.15,52,1130,Sandy Soil
+931,Punjab,PATHANKOT,Pathankot,32.30606,75.75786,2019,Rabi,Masoor,400,300,300.15,52,1130,Sandy Soil
+932,Punjab,PATIALA,Nabha,30.371,76.14613,2017,Rabi,Rapeseed &Mustard,2000,2000,300.15,52,1130,Sandy Soil
+933,Punjab,PATIALA,Patiala,30.3277,76.38615,2017,Rabi,Sunflower,1000,2000,300.15,52,1130,Sandy Soil
+934,Punjab,PATIALA,Patiala,30.32621,76.38218,2017,Rabi,Wheat,358000,1538000,300.15,52,1130,Sandy Soil
+935,Punjab,PATIALA,Patiala,30.34368,76.39951,2017,Whole Year,Sugarcane,10000,570000,300.15,52,1130,Sandy Soil
+936,Punjab,PATIALA,Patiala,30.52896,76.67146,2017,Kharif,Arhar/Tur,1400,1100,300.15,52,1130,Sandy Soil
+937,Punjab,PATIALA,Rajpura Town,30.47844,76.58407,2017,Kharif,Cotton(lint),1000,3000,300.15,52,1130,Sandy Soil
+938,Punjab,RUPNAGAR,Anandpur Sahib,31.23897,76.4946,2017,Kharif,Maize,4000,13000,300.15,52,1130,Sandy Soil
+939,Punjab,RUPNAGAR,Nangal,31.38279,76.36411,2017,Kharif,Moong(Green Gram),2200,1600,300.15,52,1130,Sandy Soil
+940,Punjab,RUPNAGAR,Rupnagar,30.96605,76.52516,2017,Kharif,Rice,334000,1034000,300.15,52,1130,Sandy Soil
+941,Punjab,S.A.S Nagar (Mohali),Kharar,30.75284,76.6328,2017,Kharif,Sesamum,3400,1600,300.15,52,1130,Sandy Soil
+942,Punjab,S.A.S Nagar (Mohali),Mohali,30.69336,76.69876,2017,Kharif,Urad,300,100,300.15,52,1130,Sandy Soil
+943,Punjab,S.A.S Nagar (Mohali),Mohali,30.69409,76.73014,2017,Rabi,Gram,200,200,300.15,52,1130,Sandy Soil
+944,Punjab,S.A.S Nagar (Mohali),Mohali,30.69223,76.7331,2017,Rabi,Masoor,300,0,300.15,52,1130,Sandy Soil
+945,Punjab,S.A.S Nagar (Mohali),Mohali,30.69113,76.72355,2017,Rabi,Rapeseed &Mustard,2000,2000,300.15,52,1130,Sandy Soil
+946,Punjab,S.A.S Nagar (Mohali),Mohali,30.70696,76.70802,2017,Rabi,Wheat,372000,1591000,300.15,52,1130,Sandy Soil
+947,Punjab,S.A.S Nagar (Mohali),Mohali,30.73975,76.71442,2017,Whole Year,Sugarcane,7000,440000,300.15,52,1130,Sandy Soil
+948,Punjab,S.A.S Nagar (Mohali),SAS Nagar,30.73931,76.71396,2017,Kharif,Arhar/Tur,1100,900,300.15,52,1130,Sandy Soil
+949,Punjab,SANGRUR,Malerkotla,30.26952,75.80951,2017,Kharif,Cotton(lint),1000,3000,300.15,52,1130,Sandy Soil
+950,Punjab,SANGRUR,Mandi Gobind Garh,30.66856,76.29489,2017,Kharif,Maize,3000,11000,307.15,33,838,Silt Soil
+951,Punjab,SANGRUR,Sangrur,30.25187,75.83633,2017,Kharif,Moong(Green Gram),1500,1100,307.15,33,838,Silt Soil
+952,Punjab,SRI MUKTSAR SAHIB,Muktsar,30.46329,74.53717,2017,Kharif,Rice,345000,1003000,307.15,33,838,Silt Soil
+953,Punjab,Tarn Taran,Patti,31.27462,74.85339,2017,Kharif,Sesamum,4600,1600,307.15,33,838,Silt Soil
+954,Punjab,Tarn Taran,Tarn Taran,31.45884,74.92343,2017,Kharif,Urad,200,100,308.15,69,373,Sandy Soil
+955,Punjab,Tarn Taran,Tarn Taran,31.44671,74.93713,2017,Rabi,Masoor,100,100,308.15,38,1541,Red Soil
+956,Odisha,ANGUL,Angul,20.92114,84.85679,2017,Autumn,Arhar/Tur,3555,739,299.15,16,600,Red Soil
+957,Odisha,ANGUL,Athamallik,21.20618,84.93462,2017,Autumn,Groundnut,4086,4037,299.15,32,552,Red Soil
+958,Odisha,ANGUL,N/A,20.85076,85.15241,2018,Autumn,Maize,948,675,308.15,37,1412,Alluvial Soil
+959,Odisha,ANGUL,Talcher,20.94646,85.24097,2018,Autumn,Paddy,21779,23578,309.16,29,1412,Alluvial Soil
+960,Odisha,ANGUL,Talcher,20.93109,85.17321,2018,Autumn,Ragi,46,25,309.16,29,1412,Alluvial Soil
+961,Odisha,BALANGIR,Balangir,20.70744,83.49486,2018,Autumn,Sesamum,1307,385,309.16,29,1412,Alluvial Soil
+962,Odisha,BALANGIR,Kantabanji,20.46894,82.9149,2018,Autumn,Urad,2878,547,309.16,29,1412,Alluvial Soil
+963,Odisha,BALANGIR,Patnagarh,20.70849,83.12955,2018,Rabi,Wheat,94,67,309.16,29,1412,Alluvial Soil
+964,Odisha,BALANGIR,Titlagarh,20.28949,83.15164,2018,Summer,Arhar/Tur,469,115,306.15,40,1432,Sandy Soil
+965,Odisha,Balasore,Balasore,21.49335,86.93596,2018,Summer,Groundnut,1022,1216,306.15,40,1432,Sandy Soil
+966,Odisha,Balasore,Kuruda,21.4715,86.89134,2018,Summer,Maize,17,14,306.15,40,1432,Sandy Soil
+967,Odisha,Balasore,Nilagiri,21.46344,86.77555,2018,Summer,Paddy,4012,7184,308.15,38,1221,Red Soil
+968,Odisha,BARGARH,Bargarh,21.33504,83.6162,2018,Summer,Sesamum,790,187,308.15,38,1221,Red Soil
+969,Odisha,BARGARH,Bargarh,21.33139,83.60873,2018,Summer,Urad,15,4,308.15,38,1323,Red Soil
+970,Odisha,BARGARH,Padampur,20.99956,83.06098,2018,Whole Year,Potato,524,4122,308.15,39,1323,Red Soil
+971,Odisha,BHADRAK,Bhadrak,21.06525,86.50246,2018,Winter,Arhar/Tur,660,114,308.15,39,1323,Red Soil
+972,Odisha,BOUDH,Boudh,20.84031,84.3216,2018,Winter,Groundnut,108,134,308.15,39,1323,Red Soil
+973,Odisha,CUTTACK,Cuttack,20.4748,85.88863,2017,Winter,Horse-gram,5955,1476,308.15,39,1323,Red Soil
+974,Odisha,CUTTACK,Cuttack,20.47366,85.8921,2017,Winter,Maize,9,10,308.15,39,1323,Red Soil
+975,Odisha,DEOGARH,Deogarh,21.5343,84.72972,2017,Winter,Paddy,86616,124082,308.15,39,1323,Red Soil
+976,Odisha,DHENKANAL,Dhenkanal,20.66331,85.59707,2017,Winter,Sesamum,5536,919,313.15,53,1157,Red and Yellow Soil
+977,Odisha,GAJAPATI,Gajapai,18.77148,84.09687,2017,Winter,Sugarcane,303,17501,306.15,34,1487,Black Soil
+978,Odisha,GANJAM,Berhampur,19.31243,84.81024,2017,Winter,Urad,1522,297,312.15,20,1200,Red and Yellow Soil
+979,Odisha,GANJAM,Bhanjanagar,19.93656,84.57996,2017,Autumn,Groundnut,4170,3161,313.15,14,1492,Red Soil
+980,Odisha,Jagatsinghpur,Jagatsinghpur,20.25166,86.17978,2017,Autumn,Maize,1062,623,310.15,29,404,Red and Yellow Soil
+981,Odisha,JAJPUR,Jaipur,20.84946,86.32896,2017,Autumn,Moong(Green Gram),2510,331,310.15,29,404,Red and Yellow Soil
+982,Odisha,JAJPUR,Jaipur Road,20.94849,20.94849,2017,Autumn,Ragi,138,57,310.15,29,404,Red and Yellow Soil
+983,Odisha,JHARSUGUDA,Jharsuguda,21.85382,84.01724,2017,Autumn,Rice,22432,9042,310.15,29,404,Red and Yellow Soil
+984,Odisha,JHARSUGUDA,N/A,21.81387,83.85306,2017,Autumn,Sesamum,2281,326,306.15,35,539,Sandy Soil
+985,Odisha,JHARSUGUDA,N/A,21.84794,83.91747,2016,Autumn,Urad,2295,342,309.15,29,776,Red Sandy Soil
+986,Odisha,KALAHANDI,Bhawanipatna,19.90194,83.15998,2016,Summer,Groundnut,626,384,304.15,40,1300,Black Soil
+987,Odisha,KALAHANDI,Dharmagarh,19.86935,82.78112,2016,Summer,Maize,10,7,306.15,59,1324,Black Soil
+988,Odisha,KALAHANDI,N/A,19.89062,83.01469,2016,Summer,Moong(Green Gram),338,55,306.15,59,1324,Black Soil
+989,Odisha,KANDHAMAL,Baliguda,20.20031,83.90989,2016,Summer,Ragi,1,#ERROR!,306.15,59,1324,Black Soil
+990,Odisha,KANDHAMAL,Phulbani,20.4858,84.22472,2016,Summer,Rice,1917,2028,306.15,59,1324,Black Soil
+991,Odisha,KENDRAPARA,N/A,20.50215,86.42593,2016,Summer,Sesamum,466,102,311.15,38,1489,Red and Yellow Soil
+992,Odisha,KENDUJHAR,Anandapur,21.62828,85.59642,2016,Summer,Urad,30,3,311.15,38,1489,Red and Yellow Soil
+993,Odisha,KENDUJHAR,Champua NAC,21.62937,85.59782,2016,Summer,Wheat,100,154,311.15,38,1489,Red and Yellow Soil
+994,Odisha,KENDUJHAR,Joda,22.01867,85.41837,2016,Winter,Groundnut,113,130,311.15,38,1489,Red and Yellow Soil
+995,Odisha,KENDUJHAR,Kendujhar,21.62828,85.59642,2016,Winter,Horse-gram,6631,1459,311.15,38,1489,Red and Yellow Soil
+996,Odisha,KENDUJHAR,N/A,22.03601,85.43419,2016,Winter,Maize,23,18,311.15,38,1489,Red and Yellow Soil
+997,Odisha,KHORDHA,Bhubaneswar,20.261,85.82211,2019,Winter,Moong(Green Gram),830,122,311.15,38,1489,Red and Yellow Soil
+998,Odisha,KHORDHA,Bhubaneswar,20.23082,85.8419,2019,Winter,Potato,523,5154,311.15,38,1489,Red and Yellow Soil
+999,Odisha,KHORDHA,Bhubaneswar,20.31372,85.81833,2019,Winter,Ragi,1,1,311.15,38,1489,Red and Yellow Soil
+1000,Odisha,KHORDHA,Bhubaneswar,20.30559,85.83179,2019,Winter,Rapeseed &Mustard,1235,98,311.15,38,1489,Red and Yellow Soil
+1001,Odisha,KHORDHA,Bhubaneswar,20.30048,85.87727,2019,Winter,Rice,77609,63810,311.15,38,1489,Red and Yellow Soil
+1002,Odisha,KHORDHA,Bhubaneswar,20.28339,85.76963,2019,Winter,Sesamum,4367,594,311.15,38,1489,Red and Yellow Soil
+1003,Odisha,KHORDHA,Bhubaneswar,20.35338,85.81485,2019,Winter,Sugarcane,326,17613,311.15,38,1489,Red and Yellow Soil
+1004,Odisha,KHORDHA,Bhubaneswar,20.26017,85.77777,2019,Winter,Urad,1390,221,311.15,38,1489,Red and Yellow Soil
+1005,Odisha,KHORDHA,Khordha,20.05539,84.94667,2019,Autumn,Rice,20000,23000,311.15,38,1489,Red and Yellow Soil
+1006,Odisha,KORAPUT,Damanjodi,18.76035,82.90113,2019,Kharif,Arhar/Tur,7960,5010,311.15,38,1489,Red and Yellow Soil
+1007,Odisha,KORAPUT,Jeypore,18.86315,82.57251,2019,Kharif,Castor seed,220,110,311.15,38,1489,Red and Yellow Soil
+1008,Odisha,KORAPUT,Koraput,18.80561,82.70502,2019,Kharif,Cotton(lint),380,260,308.15,69,797.26,Laterite Soil
+1009,Odisha,KORAPUT,Lamtaput,18.59915,82.60174,2019,Kharif,Dry chillies,1860,1250,308.15,69,797.26,Laterite Soil
+1010,Odisha,KORAPUT,Sunabeda,18.72964,82.82153,2020,Kharif,Dry ginger,460,1460,308.15,40,916,Clay soil
+1011,Odisha,MALKANGIRI,DNK Malkangiri,18.58197,82.07592,2020,Kharif,Groundnut,8570,11280,306.14,34,962,Clay soil
+1012,Odisha,MAYURBHANJ,Baripada,21.93123,86.72784,2020,Kharif,Maize,4150,2280,300.15,27,882,Red and Yellow Soil
+1013,Odisha,MAYURBHANJ,Karanjia,21.76429,85.97333,2020,Kharif,Mesta,1280,7180,300.15,27,882,Red and Yellow Soil
+1014,Odisha,MAYURBHANJ,Rairangpur,22.26928,86.15642,2020,Kharif,Moong(Green Gram),14940,2760,300.15,27,882,Red and Yellow Soil
+1015,Odisha,MAYURBHANJ,Udala,21.57656,86.5651,2020,Kharif,Ragi,50,20,311.15,66,2688,Alluvial Soil
+1016,Odisha,NABARANGPUR,Nabarangpur,19.22886,82.56679,2020,Kharif,Sesamum,24090,5370,311.15,66,2688,Alluvial Soil
+1017,Odisha,NABARANGPUR,Nabarangpur,19.23925,82.54767,2020,Kharif,Small millets,200,100,307.15,66,995,Laterite Soil
+1018,Odisha,NAYAGARH,Nayagarh,20.12806,85.10741,2020,Kharif,Sweet potato,760,6180,307.15,66,995,Laterite Soil
+1019,Odisha,NUAPADA,Khariar,20.30885,82.74179,2020,Kharif,Turmeric,610,920,307.15,66,995,Laterite Soil
+1020,Odisha,NUAPADA,Nuapada,20.80885,82.53411,2020,Kharif,Urad,18770,3570,314.15,15,750,Alluvial Soil
+1021,Odisha,PURI,Puri,19.81438,85.82965,2020,Rabi,Castor seed,710,420,314.15,15,750,Alluvial Soil
+1022,Odisha,RAYAGADA,Bissam Cuttack,19.51666,83.50669,2020,Rabi,Coriander,2180,1090,314.15,15,750,Alluvial Soil
+1023,Odisha,RAYAGADA,Gunupur,19.07155,83.80926,2020,Rabi,Dry chillies,2390,1360,314.15,15,750,Alluvial Soil
+1024,Odisha,RAYAGADA,Rayagada,0,0,2020,Rabi,Garlic,2330,7220,314.15,15,750,Alluvial Soil
+1025,Odisha,SAMBALPUR,Barapali,21.49728,83.96996,2020,Rabi,Gram,2060,840,314.15,15,750,Alluvial Soil
+1026,Odisha,SAMBALPUR,Kuchinda,21.74598,84.35076,2020,Rabi,Groundnut,2110,3550,314.15,15,750,Alluvial Soil
+1027,Odisha,SAMBALPUR,Modipada,21.47377,83.97401,2020,Rabi,Horse-gram,17930,5430,314.15,15,750,Alluvial Soil
+1028,Odisha,SAMBALPUR,Rairakhol,0,0,2020,Rabi,Maize,580,560,314.15,15,750,Alluvial Soil
+1029,Odisha,SAMBALPUR,Sambalpur,21.50109,83.88466,2020,Rabi,Moong(Green Gram),9680,2110,314.15,15,750,Alluvial Soil
+1030,Odisha,SONEPUR,Sonepur,20.84365,83.907,2020,Rabi,Niger seed,480,210,314.15,15,750,Alluvial Soil
+1031,Odisha,Sundergarh,Rourkela,22.26409,84.86511,2020,Rabi,Rapeseed &Mustard,6950,830,314.15,15,750,Alluvial Soil
+1032,Odisha,Sundergarh,Rourkela,22.26409,84.86511,2020,Rabi,Sesamum,10040,2590,314.15,15,750,Alluvial Soil
+1033,Odisha,Sundergarh,Rourkela,22.22653,84.82145,2020,Rabi,Sunflower,670,1120,314.15,15,750,Alluvial Soil
+1034,Odisha,Sundergarh,Rourkela,22.25533,84.90092,2020,Rabi,Sweet potato,290,2470,314.15,15,750,Alluvial Soil
+1035,Odisha,Sundergarh,Rourkela,22.22358,84.82963,2020,Rabi,Urad,7850,1630,314.15,15,750,Alluvial Soil
+1036,Odisha,Sundergarh,Sundargarh,21.81993,84.95653,2020,Rabi,Wheat,750,910,314.15,15,750,Alluvial Soil
+1037,Odisha,Sundergarh,Sundergarh,22.11826,84.03616,2019,Summer,Rice,4650,8350,314.15,15,750,Alluvial Soil
+1038,Nagaland,DIMAPUR,Dimapur,25.90508,93.73161,2019,Kharif,Rice,26300,47880,313.15,66,565,Sandy Soil
+1039,Nagaland,DIMAPUR,Dimapur,0,0,2019,Kharif,Small millets,1580,1780,313.15,46,832,Alluvial Soil
+1040,Nagaland,DIMAPUR,Dimapur,25.86548,93.77145,2019,Kharif,Sunflower,230,260,313.15,46,832,Alluvial Soil
+1041,Nagaland,KOHIMA,Kohima,25.66938,94.0959,2019,Rabi,Barley,630,1260,313.15,46,832,Alluvial Soil
+1042,Nagaland,KOHIMA,Kohima,25.59649,94.12323,2019,Rabi,Gram,200,200,313.15,46,832,Alluvial Soil
+1043,Nagaland,MOKOKCHUNG,Mokokchung,26.31868,94.52071,2019,Rabi,Groundnut,1000,1200,313.15,46,832,Alluvial Soil
+1044,Nagaland,MON,Mon,26.71647,95.02633,2019,Rabi,Linseed,8000,5000,313.15,46,832,Alluvial Soil
+1045,Nagaland,PHEK,Phek,25.71007,94.46448,2019,Rabi,Wheat,1480,3810,312.15,17,1359,Sandy Soil
+1046,Nagaland,TUENSANG,Tuensang,26.25344,94.81788,2019,Whole Year,Potato,810,8410,312.15,17,1359,Sandy Soil
+1047,Nagaland,WOKHA,Wokha,26.07901,94.25921,2019,Whole Year,Sugarcane,250,24690,312.15,17,1359,Sandy Soil
+1048,Nagaland,ZUNHEBOTO,Zunheboto,26.00296,94.52358,2019,Whole Year,Tea,190,1540,312.15,17,1359,Sandy Soil
+1049,Mizoram,AIZAWL,Aizawl,23.73229,92.71656,2019,Kharif,Sesamum,1368,1270,312.15,17,1359,Sandy Soil
+1050,Mizoram,AIZAWL,Aizawl,23.77271,92.73133,2019,Kharif,Soyabean,563,809,312.15,17,1359,Sandy Soil
+1051,Mizoram,CHAMPHAI,Champhai,23.48105,93.3097,2019,Rabi,Rapeseed &Mustard,145,146,312.15,17,1359,Sandy Soil
+1052,Mizoram,KOLASIB,Kolasib,24.23142,92.6768,2019,Rabi,Tobacco,217,273,312.15,17,1359,Sandy Soil
+1053,Mizoram,LAWNGTLAI,Lawngtlai,22.53668,92.88818,2019,Rabi,Wheat,22,11,312.15,17,1359,Sandy Soil
+1054,Mizoram,LUNGLEI,Lunglei,22.88639,92.74414,2019,Whole Year,Rice,30274,50241,312.15,17,1359,Sandy Soil
+1055,Mizoram,LUNGLEI,Serkawn,22.90691,92.75842,2019,Whole Year,Sugarcane,894,4890,311.15,45,862,Black Soil
+1056,Mizoram,MAMIT,Mamit,23.90937,92.49486,2019,Whole Year,Tapioca,255,5981,311.15,45,862,Black Soil
+1057,Mizoram,SAIHA,Saiha,22.48839,92.98267,2019,Kharif,Cotton(lint),267,260,312.15,26,658,Alluvial Soil
+1058,Mizoram,SERCHHIP,Serchhip,23.30795,92.85637,2018,Kharif,Maize,3803,6380,312.15,26,658,Alluvial Soil
+1059,Manipur,CHURACHANDPUR,Churachandpur,24.34345,93.69291,2018,Kharif,Onion,2,5,312.15,26,658,Alluvial Soil
+1060,Manipur,IMPHAL EAST,Porompat,24.81117,93.9617,2018,Kharif,Rice,17,40,312.15,26,658,Alluvial Soil
+1061,Manipur,IMPHAL WEST,Imphal,24.8159,93.92283,2018,Whole Year,Sugarcane,7,2,312.15,26,658,Alluvial Soil
+1062,Manipur,IMPHAL WEST,Imphal,24.83581,93.91422,2018,Autumn,Dry chillies,160,100,312.15,26,658,Alluvial Soil
+1063,Manipur,THOUBAL,Thoubal,24.62498,94.01303,2018,Autumn,Jute,10,20,313.15,23,578,Loamy soil
+1064,Meghalaya,EAST KHASI HILLS,Shillong,25.57162,91.87307,2018,Kharif,Sesamum,295,147,313.15,23,578,Loamy soil
+1065,Meghalaya,EAST KHASI HILLS,Shillong,25.57132,91.89791,2018,Kharif,Small millets,494,415,313.15,23,578,Loamy soil
+1066,Meghalaya,EAST KHASI HILLS,Shillong,25.58361,91.88413,2018,Rabi,Tobacco,253,166,306.15,50,248,Sandy Soil
+1067,Meghalaya,EAST KHASI HILLS,Shillong,25.59149,91.94038,2018,Rabi,Wheat,72,83,315.15,14,769,Alluvial Soil
+1068,Meghalaya,EAST KHASI HILLS,Shillong,25.58483,91.87528,2018,Whole Year,Arecanut,793,749,315.15,14,769,Alluvial Soil
+1069,Meghalaya,WEST GARO HILLS,Tura,25.51481,90.20348,2018,Rabi,Other Rabi pulses,206,133,315.15,14,769,Alluvial Soil
+1070,Meghalaya,WEST JAINTIA HILLS,Jowai,25.43852,92.19933,2018,Rabi,Pulses total,572,380,315.15,14,769,Alluvial Soil

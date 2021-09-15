@@ -1,0 +1,100 @@
+
+<!DOCTYPE HTML>
+<html>
+    
+<head style="text-align: center;">
+    <link ref="stylesheet" href="/static/main.css">
+    <p1 style="text-align:center;"><h1 style="color:darkgreen;" ><a href="index.html"><B><u>Good Harvest<B><u> </h1><br>
+<h3 style="color: brown;">AgriBusiness Consulting in Crop Prediction and Smart Farming Agriculture Techniques company</span></h3></a>
+</p></p1>
+
+</head>
+<BR>
+    <br>
+
+    <p style="text-align:center;"><img class="center" src="/static/crop2.png" alt="Second slide"  ></p>
+    <br>
+    <br>
+   
+    <br>
+    <br>
+<body style="background: lightgreen;">
+    <BR>
+    <BR>
+        <div class="boxed" style="background-color:lightgreen;">
+           
+    <p1 style="text-align: center;"><h1 style=color:blue><B><u>CROP PREDICTION SYSTEM</u></B></h1></p1>
+    <BR>
+    <BR>
+        <p1 style="text-align: center;">
+<form method="POST" action="/predict" text-align="center">
+
+    <p>
+        <p4 style="padding: 200px; border: 10px solid green; width: 200px;height:500px;">
+    <label for="season">season</label>
+    <select id="season" name="season">
+        <option value="0">Autumn</option>
+        <option value="1">Kharif</option>
+        <option value="2">Rabi</option>
+        <option value="3">Summer</option>
+        <option value="4">Whole Year</option>
+        <option value="5"> Winter</option>
+
+    </select>
+    </label> 
+    </p>
+    
+    <p>
+    <label>temperature
+    <input type="text" name="avg_temperature">
+    </label>
+    </p>
+    
+    <p>
+    <label>humidity
+    <input type="text" name="Humidity">
+    </label>
+    </p>
+    <p>
+        <label>rainfall
+        <input type="text" name="rainfall">
+        </label>
+        </p>
+        <p>
+            <label for="soil">Type of soil</label>
+    <select id="soil" name="soil">
+        <option value="0">Alluvial Soil</option>
+        <option value="1">Black Cotton</option>
+        <option value="3">Black Soil</option>
+        <option value="5">Clay Soil</option>
+        <option value="6">Coarse Shallow soil</option>
+        <option value="7">Laterite Soil</option>
+        <option value="8">Loamy Soil</option>
+        <option value="10">Red Loamy Soil</option>
+        <option value="11">Red Sandy Soil</option>
+        <option value="12">Red Soil</option>
+        <option value="13">Red and Yellow Soil</option>
+        <option value="15">Sandy Loam Soil</option>
+        <option value="16">Sandy Soil</option>
+        <option value="18">Slit Soil</option>
+
+
+        
+
+
+    </select>
+    </label> 
+      
+            </p>
+            <input type="submit">
+            <br>
+   <br>
+   <h1 color="white" size="5">{{ prediction_text }}</h1>
+   <BR>
+</p4>
+</p1>
+</div>
+      </form>
+            </body>
+        <br>
+        <br>
